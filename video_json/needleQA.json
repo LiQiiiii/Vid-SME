@@ -1,0 +1,902 @@
+[
+    {
+        "video": "MLVU_test/test_needle_17.mp4",
+        "duration": 745.84,
+        "question": "In the video, what did the woman take out from the oven after opening it?",
+        "candidates": [
+            "Chicken leg",
+            "Pizza",
+            "Bread",
+            "Chicken wings",
+            "Sweet potato",
+            "Lamb chops"
+        ],
+        "answer": "Pizza",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_33.mp4",
+        "duration": 463.01,
+        "question": "In the video, what are the man in a suit and the woman in a shirt doing while sitting outdoors in front of a table?",
+        "candidates": [
+            "Drawing",
+            "Writing",
+            "Drinking coffee",
+            "Eating",
+            "Talking",
+            "Playing with a phone"
+        ],
+        "answer": "Drinking coffee",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_55.mp4",
+        "duration": 455.12,
+        "question": "In the collision event of objects in the video, how many moving objects are there when the video ends?",
+        "candidates": [
+            "5",
+            "4",
+            "6",
+            "7",
+            "3",
+            "2"
+        ],
+        "answer": "4",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_30.mp4",
+        "duration": 459.13,
+        "question": "In the video, what is the man wearing a yellow short sleeve shirt and black shorts doing on high ground?",
+        "candidates": [
+            "Jumping jacks",
+            "Jumping rope",
+            "Squats",
+            "Pull-ups",
+            "Sit-ups",
+            "Push-ups"
+        ],
+        "answer": "Jumping jacks",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_21.mp4",
+        "duration": 8013.469999999999,
+        "question": "In the video, what instrument is the woman in the red dress playing by the water?",
+        "candidates": [
+            "Drum set",
+            "Piano",
+            "Violin",
+            "Flute",
+            "Guzheng",
+            "Guitar"
+        ],
+        "answer": "Violin",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_51.mp4",
+        "duration": 472.14,
+        "question": "In the collision event of objects in the video, if the rubber cylinder is removed, which of the following will not happen?",
+        "candidates": [
+            "The rubber cylinder reappears",
+            "The cube and the brown cylinder collide",
+            "The cube changes direction abruptly",
+            "The cube moves in a straight line",
+            "The brown cylinder remains stationary",
+            "The brown cylinder changes color"
+        ],
+        "answer": "The cube and the brown cylinder collide",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_38.mp4",
+        "duration": 496.32,
+        "question": "In the video, what is the white cup filled with black liquid placed on?",
+        "candidates": [
+            "Leather",
+            "Computer",
+            "Basin",
+            "Wooden board",
+            "Ground",
+            "Bowl"
+        ],
+        "answer": "Wooden board",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_9.mp4",
+        "duration": 457.02000000000004,
+        "question": "In the video, what word is spelled out with various vegetables on the flat pan?",
+        "candidates": [
+            "MEAT",
+            "RICE",
+            "VEGETABLE",
+            "FOOD",
+            "FRESH",
+            "SWEET"
+        ],
+        "answer": "FOOD",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_53.mp4",
+        "duration": 8205.76,
+        "question": "In the collision event of objects in the video, what shape is the stationary rubber object when the purple cylinder enters the scene?",
+        "candidates": [
+            "cube",
+            "cylinder",
+            "rectangular prism",
+            "pyramid",
+            "sphere",
+            "cone"
+        ],
+        "answer": "sphere",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_1.mp4",
+        "duration": 502.79,
+        "question": "How many bats hanging upside down on the tree branches in the video?",
+        "candidates": [
+            "5",
+            "3",
+            "2",
+            "4",
+            "1",
+            "6"
+        ],
+        "answer": "4",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_13.mp4",
+        "duration": 458.64,
+        "question": "In the video, what are the man and woman doing under the tree full of flowers?",
+        "candidates": [
+            "Singing",
+            "Fighting",
+            "Hugging",
+            "Playing football",
+            "Arguing",
+            "Dancing"
+        ],
+        "answer": "Hugging",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_25.mp4",
+        "duration": 6979.45,
+        "question": "In the video, what is the long-haired woman in a black skirt doing?",
+        "candidates": [
+            "Singing",
+            "Playing football",
+            "Dancing",
+            "Playing games",
+            "Eating",
+            "Doing nail art"
+        ],
+        "answer": "Dancing",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_34.mp4",
+        "duration": 492.78,
+        "question": "What is the pink toy the child is playing with in the video?",
+        "candidates": [
+            "Cat",
+            "Rabbit",
+            "Birthday cake",
+            "Dinosaur",
+            "Dog",
+            "Car"
+        ],
+        "answer": "Birthday cake",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_7.mp4",
+        "duration": 760.07,
+        "question": "What are the two women wearing black vests and black pants doing in the video?",
+        "candidates": [
+            "Dancing",
+            "Using a mobile phone",
+            "Playing on the computer",
+            "Singing",
+            "Playing football",
+            "Arguing"
+        ],
+        "answer": "Dancing",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_27.mp4",
+        "duration": 473.22,
+        "question": "In the video, under the blue sky and white clouds, how many trees are there in total on both sides of the door of the white building with a flag floating on the roof?",
+        "candidates": [
+            "1",
+            "2",
+            "5",
+            "3",
+            "4",
+            "6"
+        ],
+        "answer": "6",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_12.mp4",
+        "duration": 7589.6900000000005,
+        "question": "In the video, what are the man and woman doing under the tree full of flowers?",
+        "candidates": [
+            "Singing",
+            "Playing football",
+            "Fighting",
+            "Hugging",
+            "Dancing",
+            "Arguing"
+        ],
+        "answer": "Hugging",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_29.mp4",
+        "duration": 472.28,
+        "question": "In the video, what is on the tip of the tower next to the building with a red roof?",
+        "candidates": [
+            "Wooden stick",
+            "Bucket",
+            "Soldier sculpture",
+            "Lightning rod",
+            "Stone",
+            "National flag"
+        ],
+        "answer": "Soldier sculpture",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_8.mp4",
+        "duration": 457.02,
+        "question": "In the video, what word is spelled out with various vegetables on the flat pan?",
+        "candidates": [
+            "MEAT",
+            "VEGETABLE",
+            "FRESH",
+            "SWEET",
+            "FOOD",
+            "RICE"
+        ],
+        "answer": "FOOD",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_16.mp4",
+        "duration": 532.92,
+        "question": "In the video, what did the woman take out from the oven after opening it?",
+        "candidates": [
+            "Pizza",
+            "Lamb chops",
+            "Chicken leg",
+            "Chicken wings",
+            "Bread",
+            "Sweet potato"
+        ],
+        "answer": "Pizza",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_28.mp4",
+        "duration": 546.4,
+        "question": "In the video, what is on the tip of the tower next to the building with a red roof?",
+        "candidates": [
+            "Bucket",
+            "Soldier sculpture",
+            "Stone",
+            "Lightning rod",
+            "National flag",
+            "Wooden stick"
+        ],
+        "answer": "Soldier sculpture",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_56.mp4",
+        "duration": 6617.900000000001,
+        "question": "In the collision event of objects in the video, which of the following is not responsible for the collision between the blue cylinder and the blue sphere?",
+        "candidates": [
+            "the trajectory of the blue sphere",
+            "the angle of impact between the objects",
+            "the speed of the blue cylinder",
+            "the surface texture of the blue sphere",
+            "the mass of the blue cylinder",
+            "the presence of the cyan metal object"
+        ],
+        "answer": "the presence of the cyan metal object",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_36.mp4",
+        "duration": 632.6700000000001,
+        "question": "In the video, what is the woman wearing a suit and a black tie, sitting on the bench, holding in her hand?",
+        "candidates": [
+            "Mobile phone",
+            "Tablet computer",
+            "Apple",
+            "Beverage",
+            "Paper materials",
+            "Laptop"
+        ],
+        "answer": "Tablet computer",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_4.mp4",
+        "duration": 518.88,
+        "question": "In the video, how many white swans are there on the water surface?",
+        "candidates": [
+            "5",
+            "1",
+            "4",
+            "3",
+            "6",
+            "2"
+        ],
+        "answer": "3",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_52.mp4",
+        "duration": 618.14,
+        "question": "In the collision event of objects in the video, what shape is the moving metal object when the cyan object enters the scene?",
+        "candidates": [
+            "sphere",
+            "cylinder",
+            "cone",
+            "prism",
+            "pyramid",
+            "cube"
+        ],
+        "answer": "sphere",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_15.mp4",
+        "duration": 460.64,
+        "question": "In the video, what color clothes is the woman with beige hair wearing while carefully listening to the doctor's explanation?",
+        "candidates": [
+            "Blue",
+            "Gray",
+            "Pink",
+            "Green",
+            "Purple",
+            "White"
+        ],
+        "answer": "Pink",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_49.mp4",
+        "duration": 6713.97,
+        "question": "In the collision event of objects in the video, how many objects enter the scene?",
+        "candidates": [
+            "2",
+            "3",
+            "0",
+            "4",
+            "1",
+            "5"
+        ],
+        "answer": "2",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_44.mp4",
+        "duration": 455.12,
+        "question": "In the collision event of objects in the video, what is the material of the object to collide with the cyan cylinder?",
+        "candidates": [
+            "plastic",
+            "metal",
+            "rubber",
+            "glass",
+            "wood",
+            "ceramic"
+        ],
+        "answer": "rubber",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_57.mp4",
+        "duration": 455.12,
+        "question": "In the collision event of objects in the video, what is the material of the last object to collide with the rubber cube?",
+        "candidates": [
+            "rubber",
+            "wood",
+            "glass",
+            "plastic",
+            "ceramic",
+            "metal"
+        ],
+        "answer": "rubber",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_3.mp4",
+        "duration": 681.67,
+        "question": "In the video, what kind of emotion does the blue-eyed male doctor reveal in the conversation?",
+        "candidates": [
+            "Nervous",
+            "Happy",
+            "Excited",
+            "Neutral",
+            "Afraid",
+            "Sad"
+        ],
+        "answer": "Happy",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_43.mp4",
+        "duration": 5345.59,
+        "question": "In the collision event of objects in the video, what is the shape of the first object that enters the scene?",
+        "candidates": [
+            "cube",
+            "cone",
+            "pyramid",
+            "cylinder",
+            "sphere",
+            "rectangular prism"
+        ],
+        "answer": "sphere",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_42.mp4",
+        "duration": 645.14,
+        "question": "In the collision event of objects in the video, which of the following is not responsible for the collision between the rubber sphere and the cylinder?",
+        "candidates": [
+            "the presence of the metal cube",
+            "the surface texture of the cylinder",
+            "the mass of the rubber sphere",
+            "the cylinder's position",
+            "the gravitational pull on the objects",
+            "the rubber sphere's velocity"
+        ],
+        "answer": "the presence of the metal cube",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_35.mp4",
+        "duration": 652.5,
+        "question": "What is the pink toy the child is playing with in the video?",
+        "candidates": [
+            "Rabbit",
+            "Birthday cake",
+            "Dinosaur",
+            "Cat",
+            "Dog",
+            "Car"
+        ],
+        "answer": "Birthday cake",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_31.mp4",
+        "duration": 7590.060000000001,
+        "question": "In the video, what is the man wearing a yellow short sleeve shirt and black shorts doing on high ground?",
+        "candidates": [
+            "Sit-ups",
+            "Jumping jacks",
+            "Jumping rope",
+            "Squats",
+            "Push-ups",
+            "Pull-ups"
+        ],
+        "answer": "Jumping jacks",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_11.mp4",
+        "duration": 472.52,
+        "question": "In the video, what falls into the transparent glass bowl?",
+        "candidates": [
+            "Blueberries",
+            "Milk",
+            "Cereal",
+            "Egg",
+            "Banana",
+            "Apple"
+        ],
+        "answer": "Cereal",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_45.mp4",
+        "duration": 771.14,
+        "question": "In the collision event of objects in the video, which of the following will not happen without the rubber sphere?",
+        "candidates": [
+            "The rubber sphere will collide with the gray cylinder",
+            "The rubber sphere will bounce off the cube",
+            "The cube will remain stationary",
+            "The cube and the gray cylinder collide",
+            "The gray cylinder will roll away",
+            "The cube and the rubber sphere will stick together"
+        ],
+        "answer": "The cube and the gray cylinder collide",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_24.mp4",
+        "duration": 479.94,
+        "question": "In the video, what is the long-haired woman in a black skirt doing?",
+        "candidates": [
+            "Playing football",
+            "Singing",
+            "Playing games",
+            "Doing nail art",
+            "Eating",
+            "Dancing"
+        ],
+        "answer": "Dancing",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_50.mp4",
+        "duration": 455.25,
+        "question": "In the collision event of objects in the video, what color is the object that exits the scene?",
+        "candidates": [
+            "yellow",
+            "blue",
+            "orange",
+            "purple",
+            "red",
+            "green"
+        ],
+        "answer": "green",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_0.mp4",
+        "duration": 472.79,
+        "question": "How many bats hanging upside down on the tree branches in the video?",
+        "candidates": [
+            "5",
+            "3",
+            "2",
+            "6",
+            "4",
+            "1"
+        ],
+        "answer": "4",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_23.mp4",
+        "duration": 483.56,
+        "question": "In the video, what fruit falls into the water from above?",
+        "candidates": [
+            "Peach",
+            "Blueberry",
+            "Grape",
+            "Strawberry",
+            "Orange",
+            "Apple"
+        ],
+        "answer": "Strawberry",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_6.mp4",
+        "duration": 303.76,
+        "question": "What are the two women wearing black vests and black pants doing in the video?",
+        "candidates": [
+            "Singing",
+            "Arguing",
+            "Playing football",
+            "Dancing",
+            "Using a mobile phone",
+            "Playing on the computer"
+        ],
+        "answer": "Dancing",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_46.mp4",
+        "duration": 251.14000000000001,
+        "question": "In the collision event of objects in the video, how many red objects are moving?",
+        "candidates": [
+            "6",
+            "2",
+            "1",
+            "4",
+            "3",
+            "5"
+        ],
+        "answer": "3",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_39.mp4",
+        "duration": 496.32,
+        "question": "In the video, what is the white cup filled with black liquid placed on?",
+        "candidates": [
+            "Ground",
+            "Leather",
+            "Bowl",
+            "Wooden board",
+            "Basin",
+            "Computer"
+        ],
+        "answer": "Wooden board",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_5.mp4",
+        "duration": 482.12,
+        "question": "In the video, how many white swans are there on the water surface?",
+        "candidates": [
+            "4",
+            "1",
+            "2",
+            "6",
+            "5",
+            "3"
+        ],
+        "answer": "3",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_48.mp4",
+        "duration": 767.14,
+        "question": "In the collision event of objects in the video, which of the following is not responsible for the yellow cylinder's colliding with the purple cylinder?",
+        "candidates": [
+            "the angle of collision",
+            "the friction between surfaces",
+            "the purple cylinder's position",
+            "the force applied to the yellow cylinder",
+            "the yellow cylinder's initial velocity",
+            "the presence of the metal cylinder"
+        ],
+        "answer": "the presence of the metal cylinder",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_54.mp4",
+        "duration": 725.14,
+        "question": "In the collision event of objects in the video, which of the following is not responsible for the blue sphere's colliding with the cylinder?",
+        "candidates": [
+            "the initial position of the cylinder",
+            "the friction between the blue sphere and the surface",
+            "the momentum of the blue sphere",
+            "the velocity of the cylinder",
+            "the gravitational force acting on the blue sphere",
+            "the presence of the yellow rubber object"
+        ],
+        "answer": "the presence of the yellow rubber object",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_22.mp4",
+        "duration": 6570.4800000000005,
+        "question": "In the video, what fruit falls into the water from above?",
+        "candidates": [
+            "Grape",
+            "Orange",
+            "Apple",
+            "Blueberry",
+            "Peach",
+            "Strawberry"
+        ],
+        "answer": "Strawberry",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_19.mp4",
+        "duration": 464.18,
+        "question": "In the video, what pattern did the woman in the blue nurse uniform draw in the air with a pen?",
+        "candidates": [
+            "Square",
+            "Heart shape",
+            "Check mark",
+            "Triangle",
+            "Circle",
+            "Cross"
+        ],
+        "answer": "Cross",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_37.mp4",
+        "duration": 613.6400000000001,
+        "question": "In the video, what is the woman wearing a suit and a black tie, sitting on the bench, holding in her hand?",
+        "candidates": [
+            "Beverage",
+            "Mobile phone",
+            "Apple",
+            "Laptop",
+            "Tablet computer",
+            "Paper materials"
+        ],
+        "answer": "Tablet computer",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_41.mp4",
+        "duration": 553.14,
+        "question": "In the collision event of objects in the video, how many rubber cylinders enter the scene after the sphere enters the scene?",
+        "candidates": [
+            "2",
+            "0",
+            "1",
+            "4",
+            "5",
+            "3"
+        ],
+        "answer": "0",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_40.mp4",
+        "duration": 6694.150000000001,
+        "question": "In the collision event of objects in the video, how many rubber cylinders exit the scene after the cube enters the scene?",
+        "candidates": [
+            "5",
+            "0",
+            "3",
+            "2",
+            "4",
+            "1"
+        ],
+        "answer": "0",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_10.mp4",
+        "duration": 472.64,
+        "question": "In the video, what falls into the transparent glass bowl?",
+        "candidates": [
+            "Cereal",
+            "Milk",
+            "Apple",
+            "Egg",
+            "Banana",
+            "Blueberries"
+        ],
+        "answer": "Cereal",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_2.mp4",
+        "duration": 5493.71,
+        "question": "In the video, what kind of emotion does the blue-eyed male doctor reveal in the conversation?",
+        "candidates": [
+            "Neutral",
+            "Afraid",
+            "Happy",
+            "Nervous",
+            "Sad",
+            "Excited"
+        ],
+        "answer": "Happy",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_18.mp4",
+        "duration": 369.47,
+        "question": "In the video, what pattern did the woman in the blue nurse uniform draw in the air with a pen?",
+        "candidates": [
+            "Cross",
+            "Square",
+            "Heart shape",
+            "Circle",
+            "Check mark",
+            "Triangle"
+        ],
+        "answer": "Cross",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_20.mp4",
+        "duration": 7655.280000000001,
+        "question": "In the video, what instrument is the woman in the red dress playing by the water?",
+        "candidates": [
+            "Piano",
+            "Guitar",
+            "Flute",
+            "Violin",
+            "Guzheng",
+            "Drum set"
+        ],
+        "answer": "Violin",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_47.mp4",
+        "duration": 482.14,
+        "question": "In the collision event of objects in the video, what material is the last object that enters the scene?",
+        "candidates": [
+            "rubber",
+            "ceramic",
+            "wood",
+            "metal",
+            "glass",
+            "plastic"
+        ],
+        "answer": "rubber",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_32.mp4",
+        "duration": 569.03,
+        "question": "In the video, what are the man in a suit and the woman in a shirt doing while sitting outdoors in front of a table?",
+        "candidates": [
+            "Talking",
+            "Playing with a phone",
+            "Writing",
+            "Eating",
+            "Drinking coffee",
+            "Drawing"
+        ],
+        "answer": "Drinking coffee",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_58.mp4",
+        "duration": 645.14,
+        "question": "In the collision event of objects in the video, without the brown metal cylinder, which of the following will happen?",
+        "candidates": [
+            "The yellow cylinder passes through the gray object without colliding",
+            "The gray object moves away without any collision",
+            "The yellow cylinder stops moving before reaching the gray object",
+            "The yellow cylinder changes direction and avoids the gray object",
+            "The gray object collides with another object instead of the yellow cylinder",
+            "The yellow cylinder collides with the gray object"
+        ],
+        "answer": "The yellow cylinder collides with the gray object",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_59.mp4",
+        "duration": 5879.96,
+        "question": "In the collision event of objects in the video, without the cyan rubber object, what will happen?",
+        "candidates": [
+            "The cylinder collides with the blue cube",
+            "The cylinder stops before reaching the red sphere",
+            "The cylinder changes direction and moves away",
+            "The cylinder passes through without colliding",
+            "The cylinder collides with the red sphere",
+            "The cylinder merges with the red sphere"
+        ],
+        "answer": "The cylinder collides with the red sphere",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_14.mp4",
+        "duration": 698.42,
+        "question": "In the video, what color clothes is the woman with beige hair wearing while carefully listening to the doctor's explanation?",
+        "candidates": [
+            "White",
+            "Purple",
+            "Blue",
+            "Gray",
+            "Pink",
+            "Green"
+        ],
+        "answer": "Pink",
+        "question_type": "needleQA"
+    },
+    {
+        "video": "MLVU_test/test_needle_26.mp4",
+        "duration": 473.29999999999995,
+        "question": "In the video, under the blue sky and white clouds, how many trees are there in total on both sides of the door of the white building with a flag floating on the roof?",
+        "candidates": [
+            "3",
+            "2",
+            "1",
+            "5",
+            "6",
+            "4"
+        ],
+        "answer": "6",
+        "question_type": "needleQA"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "video": "MLVU_test/test_count_18.mp4",
+        "duration": 673.0500000000001,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'pole vault' action",
+        "candidates": [
+            1,
+            2,
+            5,
+            6,
+            0,
+            4
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_37.mp4",
+        "duration": 284.04999999999995,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'playing trombone' action",
+        "candidates": [
+            6,
+            4,
+            5,
+            0,
+            1,
+            3
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_24.mp4",
+        "duration": 627.42,
+        "question": "In this video, how many times does the scene of the 'jetskiing' action appear in total?",
+        "candidates": [
+            0,
+            6,
+            3,
+            5,
+            2,
+            4
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_44.mp4",
+        "duration": 409.34999999999997,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'javelin throw' action",
+        "candidates": [
+            3,
+            5,
+            4,
+            2,
+            6,
+            1
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_32.mp4",
+        "duration": 810.39,
+        "question": "In this video, how many times does the scene of the 'carving pumpkin' action appear in total?",
+        "candidates": [
+            1,
+            0,
+            5,
+            3,
+            6,
+            2
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_29.mp4",
+        "duration": 566.03,
+        "question": "In this video, how many instances are there of the 'playing harp' action scene in total?",
+        "candidates": [
+            4,
+            1,
+            2,
+            5,
+            0,
+            3
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_0.mp4",
+        "duration": 500.01,
+        "question": "In this video, how many times does the scene of the 'abseiling' action appear in total?",
+        "candidates": [
+            2,
+            4,
+            6,
+            5,
+            1,
+            3
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_2.mp4",
+        "duration": 609.5899999999999,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'abseiling' action",
+        "candidates": [
+            1,
+            6,
+            3,
+            5,
+            0,
+            4
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_43.mp4",
+        "duration": 510.03,
+        "question": "In this video, how many times does the scene of the 'javelin throw' action appear in total?",
+        "candidates": [
+            1,
+            5,
+            4,
+            3,
+            6,
+            0
+        ],
+        "answer": 3,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_15.mp4",
+        "duration": 673.07,
+        "question": "In this video, how many instances are there of the 'milking cow' action scene in total?",
+        "candidates": [
+            3,
+            5,
+            2,
+            6,
+            0,
+            4
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_56.mp4",
+        "duration": 460.14,
+        "question": "In this video, how many times does the scene of the 'paragliding' action appear in total?",
+        "candidates": [
+            3,
+            6,
+            0,
+            2,
+            1,
+            5
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_22.mp4",
+        "duration": 470.02,
+        "question": "In this video, how many instances are there of the 'cleaning toilet' action scene in total?",
+        "candidates": [
+            3,
+            0,
+            1,
+            6,
+            5,
+            2
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_26.mp4",
+        "duration": 453.57,
+        "question": "In this video, how many times does the scene of the 'jetskiing' action appear in total?",
+        "candidates": [
+            2,
+            4,
+            3,
+            6,
+            5,
+            1
+        ],
+        "answer": 3,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_3.mp4",
+        "duration": 468.48,
+        "question": "In this video, how many instances are there of the 'tossing coin' action scene in total?",
+        "candidates": [
+            0,
+            5,
+            1,
+            2,
+            4,
+            6
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_19.mp4",
+        "duration": 314.03999999999996,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'pole vault' action",
+        "candidates": [
+            1,
+            3,
+            4,
+            2,
+            5,
+            0
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_11.mp4",
+        "duration": 597.9399999999999,
+        "question": "In this video, how many instances are there of the 'water sliding' action scene in total?",
+        "candidates": [
+            3,
+            4,
+            6,
+            0,
+            5,
+            1
+        ],
+        "answer": 3,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_51.mp4",
+        "duration": 643.0,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'zumba' action",
+        "candidates": [
+            1,
+            2,
+            4,
+            3,
+            6,
+            0
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_20.mp4",
+        "duration": 612.99,
+        "question": "In this video, how many instances are there of the 'pole vault' action scene in total?",
+        "candidates": [
+            1,
+            6,
+            3,
+            5,
+            0,
+            2
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_39.mp4",
+        "duration": 593.1,
+        "question": "In this video, how many instances are there of the 'making jewelry' action scene in total?",
+        "candidates": [
+            5,
+            3,
+            4,
+            6,
+            0,
+            2
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_46.mp4",
+        "duration": 6620.6500000000015,
+        "question": "In this video, how many times does the scene of the 'shredding paper' action appear in total?",
+        "candidates": [
+            6,
+            0,
+            3,
+            5,
+            2,
+            4
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_53.mp4",
+        "duration": 484.15,
+        "question": "In this video, how many times does the scene of the 'zumba' action appear in total?",
+        "candidates": [
+            5,
+            0,
+            4,
+            1,
+            2,
+            3
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_1.mp4",
+        "duration": 489.06999999999994,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'abseiling' action",
+        "candidates": [
+            0,
+            6,
+            5,
+            1,
+            3,
+            4
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_48.mp4",
+        "duration": 728.68,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'cooking sausages' action",
+        "candidates": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            4
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_57.mp4",
+        "duration": 500.03999999999996,
+        "question": "In this video, how many times does the scene of the 'baking cookies' action appear in total?",
+        "candidates": [
+            4,
+            2,
+            5,
+            3,
+            6,
+            1
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_59.mp4",
+        "duration": 750.8299999999999,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'baking cookies' action",
+        "candidates": [
+            1,
+            6,
+            4,
+            2,
+            5,
+            0
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_25.mp4",
+        "duration": 619.42,
+        "question": "In this video, how many times does the scene of the 'jetskiing' action appear in total?",
+        "candidates": [
+            3,
+            5,
+            4,
+            1,
+            2,
+            0
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_49.mp4",
+        "duration": 470.09999999999997,
+        "question": "In this video, how many times does the scene of the 'cooking sausages' action appear in total?",
+        "candidates": [
+            6,
+            3,
+            1,
+            2,
+            0,
+            4
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_7.mp4",
+        "duration": 6606.18,
+        "question": "In this video, how many times does the scene of the 'clean and jerk' action appear in total?",
+        "candidates": [
+            2,
+            3,
+            6,
+            4,
+            0,
+            1
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_27.mp4",
+        "duration": 470.01,
+        "question": "In this video, how many instances are there of the 'playing harp' action scene in total?",
+        "candidates": [
+            3,
+            6,
+            0,
+            4,
+            2,
+            1
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_55.mp4",
+        "duration": 5641.3200000000015,
+        "question": "In this video, how many instances are there of the 'paragliding' action scene in total?",
+        "candidates": [
+            5,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_28.mp4",
+        "duration": 685.03,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'playing harp' action",
+        "candidates": [
+            4,
+            0,
+            6,
+            3,
+            1,
+            2
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_33.mp4",
+        "duration": 304.03,
+        "question": "In this video, how many times does the scene of the 'stomping grapes' action appear in total?",
+        "candidates": [
+            1,
+            6,
+            3,
+            4,
+            0,
+            2
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_35.mp4",
+        "duration": 605.88,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'stomping grapes' action",
+        "candidates": [
+            6,
+            2,
+            1,
+            0,
+            4,
+            3
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_30.mp4",
+        "duration": 596.0699999999999,
+        "question": "In this video, how many instances are there of the 'carving pumpkin' action scene in total?",
+        "candidates": [
+            5,
+            0,
+            6,
+            2,
+            4,
+            1
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_45.mp4",
+        "duration": 540.04,
+        "question": "In this video, how many times does the scene of the 'shredding paper' action appear in total?",
+        "candidates": [
+            6,
+            0,
+            1,
+            3,
+            4,
+            5
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_16.mp4",
+        "duration": 499.34,
+        "question": "In this video, how many instances are there of the 'milking cow' action scene in total?",
+        "candidates": [
+            4,
+            0,
+            1,
+            3,
+            5,
+            2
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_9.mp4",
+        "duration": 495.43,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'water sliding' action",
+        "candidates": [
+            3,
+            4,
+            2,
+            1,
+            5,
+            6
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_13.mp4",
+        "duration": 530.0699999999999,
+        "question": "In this video, how many instances are there of the 'riding mule' action scene in total?",
+        "candidates": [
+            2,
+            3,
+            1,
+            0,
+            4,
+            5
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_52.mp4",
+        "duration": 530.64,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'zumba' action",
+        "candidates": [
+            6,
+            2,
+            1,
+            4,
+            5,
+            0
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_17.mp4",
+        "duration": 452.78000000000003,
+        "question": "In this video, how many instances are there of the 'milking cow' action scene in total?",
+        "candidates": [
+            0,
+            5,
+            3,
+            6,
+            4,
+            2
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_50.mp4",
+        "duration": 760.34,
+        "question": "In this video, how many times does the scene of the 'cooking sausages' action appear in total?",
+        "candidates": [
+            5,
+            1,
+            3,
+            4,
+            0,
+            6
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_58.mp4",
+        "duration": 576.04,
+        "question": "In this video, how many instances are there of the 'baking cookies' action scene in total?",
+        "candidates": [
+            6,
+            3,
+            2,
+            5,
+            0,
+            4
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_38.mp4",
+        "duration": 583.1,
+        "question": "In this video, how many instances are there of the 'playing trombone' action scene in total?",
+        "candidates": [
+            2,
+            1,
+            6,
+            0,
+            4,
+            3
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_23.mp4",
+        "duration": 489.04999999999995,
+        "question": "In this video, how many times does the scene of the 'cleaning toilet' action appear in total?",
+        "candidates": [
+            5,
+            3,
+            2,
+            0,
+            4,
+            1
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_31.mp4",
+        "duration": 405.47999999999996,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'carving pumpkin' action",
+        "candidates": [
+            4,
+            6,
+            3,
+            0,
+            2,
+            5
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_21.mp4",
+        "duration": 419.38,
+        "question": "In this video, how many times does the scene of the 'cleaning toilet' action appear in total?",
+        "candidates": [
+            0,
+            2,
+            4,
+            3,
+            5,
+            1
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_5.mp4",
+        "duration": 470.03999999999996,
+        "question": "In this video, how many times does the scene of the 'tossing coin' action appear in total?",
+        "candidates": [
+            5,
+            3,
+            1,
+            0,
+            4,
+            2
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_41.mp4",
+        "duration": 490.03,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'making jewelry' action",
+        "candidates": [
+            2,
+            3,
+            1,
+            6,
+            5,
+            4
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_54.mp4",
+        "duration": 659.74,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'paragliding' action",
+        "candidates": [
+            3,
+            0,
+            6,
+            2,
+            1,
+            5
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_34.mp4",
+        "duration": 642.3299999999999,
+        "question": "In this video, how many times does the scene of the 'stomping grapes' action appear in total?",
+        "candidates": [
+            4,
+            6,
+            3,
+            2,
+            0,
+            1
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_6.mp4",
+        "duration": 560.25,
+        "question": "In this video, how many times does the scene of the 'clean and jerk' action appear in total?",
+        "candidates": [
+            1,
+            5,
+            6,
+            4,
+            0,
+            2
+        ],
+        "answer": 5,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_8.mp4",
+        "duration": 476.77000000000004,
+        "question": "In this video, how many instances are there of the 'clean and jerk' action scene in total?",
+        "candidates": [
+            3,
+            6,
+            4,
+            0,
+            1,
+            5
+        ],
+        "answer": 3,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_36.mp4",
+        "duration": 470.0,
+        "question": "In this video, how many times does the scene of the 'playing trombone' action appear in total?",
+        "candidates": [
+            5,
+            2,
+            4,
+            3,
+            6,
+            1
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_12.mp4",
+        "duration": 649.8,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'riding mule' action",
+        "candidates": [
+            1,
+            6,
+            4,
+            2,
+            5,
+            0
+        ],
+        "answer": 2,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_47.mp4",
+        "duration": 510.03999999999996,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'shredding paper' action",
+        "candidates": [
+            6,
+            1,
+            2,
+            0,
+            3,
+            4
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_40.mp4",
+        "duration": 528.52,
+        "question": "In this video, how many instances are there of the 'making jewelry' action scene in total?",
+        "candidates": [
+            0,
+            4,
+            1,
+            2,
+            6,
+            5
+        ],
+        "answer": 1,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_10.mp4",
+        "duration": 702.67,
+        "question": "In this video, how many times does the scene of the 'water sliding' action appear in total?",
+        "candidates": [
+            1,
+            6,
+            5,
+            2,
+            4,
+            0
+        ],
+        "answer": 4,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_4.mp4",
+        "duration": 538.5,
+        "question": "In this video, how many times does the scene of the 'tossing coin' action appear in total?",
+        "candidates": [
+            1,
+            3,
+            6,
+            4,
+            0,
+            2
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_42.mp4",
+        "duration": 453.16999999999996,
+        "question": "In this video, how many times does the scene of the 'javelin throw' action appear in total?",
+        "candidates": [
+            5,
+            6,
+            3,
+            0,
+            4,
+            2
+        ],
+        "answer": 6,
+        "question_type": "count"
+    },
+    {
+        "video": "MLVU_test/test_count_14.mp4",
+        "duration": 426.15,
+        "question": "Throughout this video, what is the total count of occurrences for the scene featuring the 'riding mule' action",
+        "candidates": [
+            6,
+            3,
+            5,
+            2,
+            0,
+            1
+        ],
+        "answer": 5,
+        "question_type": "count"
+    }
+]

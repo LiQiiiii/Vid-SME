@@ -1,0 +1,752 @@
+[
+    {
+        "video": "MLVU_test/test_entv_6.mp4",
+        "duration": 573.0751841594767,
+        "question": "What weapon did the person who rescued the man in the forest use to kill the other soldiers?",
+        "candidates": [
+            "Bomb",
+            "Gun",
+            "Knife",
+            "Arrow",
+            "Bow and arrow",
+            "Stick"
+        ],
+        "answer": "Bow and arrow",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_18.mp4",
+        "duration": 355.39,
+        "question": "After making peace in the video, where does the mouse stand on the cat to go out together?",
+        "candidates": [
+            "Head",
+            "Finger",
+            "Shoulder",
+            "Arm",
+            "Belly",
+            "Palm"
+        ],
+        "answer": "Shoulder",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_18.mp4",
+        "duration": 355.39,
+        "question": "What did the mouse find in the box after running into the mouse hole?",
+        "candidates": [
+            "Knife",
+            "White flag",
+            "Sword",
+            "Cheese",
+            "Apple",
+            "Stick"
+        ],
+        "answer": "White flag",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_25.mp4",
+        "duration": 595.179419114368,
+        "question": "In the video, what did the woman take out of the refrigerator?",
+        "candidates": [
+            "A dragon fruit",
+            "An eggplant",
+            "A bottle of water",
+            "A bottle of beer",
+            "An apple",
+            "A banana"
+        ],
+        "answer": "A bottle of water",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_1.mp4",
+        "duration": 483.07277143454803,
+        "question": "Where did the yellow sponge go after leaving?",
+        "candidates": [
+            "Supermarket",
+            "Mall",
+            "Campus",
+            "Restaurant",
+            "Library",
+            "Bar"
+        ],
+        "answer": "Supermarket",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_13.mp4",
+        "duration": 678.6181831810065,
+        "question": "At the end of the video, what were the woman and the man in the red plaid shirt fighting over?",
+        "candidates": [
+            "Notebook",
+            "Cellphone",
+            "Ball",
+            "Phone",
+            "Pen",
+            "Burger"
+        ],
+        "answer": "Phone",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_13.mp4",
+        "duration": 678.6181831810065,
+        "question": "In the video, what did the man do after grabbing the woman's hand?",
+        "candidates": [
+            "Hurt her",
+            "Put on a bracelet",
+            "Cut her nails",
+            "Put on a ring",
+            "Applied a band-aid",
+            "Applied nail polish"
+        ],
+        "answer": "Applied a band-aid",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_97.mp4",
+        "duration": 556,
+        "question": "How did the robbers intercept the police car in the video?",
+        "candidates": [
+            "Faked a traffic accident",
+            "Shot with a gun",
+            "Detonated a smoke bomb",
+            "Took hostages",
+            "Detonated a bomb",
+            "Set up a roadblock"
+        ],
+        "answer": "Detonated a bomb",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_21.mp4",
+        "duration": 662.3029651724227,
+        "question": "What did the turtle use to make clothes for itself in the video?",
+        "candidates": [
+            "Leaves",
+            "Plastic Bags",
+            "Iron Sheets",
+            "Branches",
+            "Cloth",
+            "Seaweed"
+        ],
+        "answer": "Seaweed",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_3.mp4",
+        "duration": 572.577543878504,
+        "question": "What color is the hat worn by the cartoon sponge in the video?",
+        "candidates": [
+            "Purple",
+            "Black",
+            "Yellow",
+            "Red",
+            "White",
+            "Orange"
+        ],
+        "answer": "White",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_5.mp4",
+        "duration": 700.678139986795,
+        "question": "In the video, what is floating on the water?",
+        "candidates": [
+            "Water Bottles",
+            "Seaweed",
+            "Ropes",
+            "Sailboats",
+            "Feathers",
+            "Plastic Bags"
+        ],
+        "answer": "Sailboats",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_94.mp4",
+        "duration": 439,
+        "question": "What is the man in the black hat sitting on in the video?",
+        "candidates": [
+            "Wheelchair",
+            "Chair",
+            "Floor",
+            "Sofa",
+            "Rock",
+            "Stool"
+        ],
+        "answer": "Wheelchair",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_97.mp4",
+        "duration": 556,
+        "question": "How many taxis are there at the beginning of the video?",
+        "candidates": [
+            "1",
+            "4",
+            "6",
+            "5",
+            "2",
+            "3"
+        ],
+        "answer": "3",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_17.mp4",
+        "duration": 400.58,
+        "question": "In the video, what did the grey mouse put into the king's mouth?",
+        "candidates": [
+            "Stone",
+            "Lychee",
+            "Tomato",
+            "Grapes",
+            "Bread",
+            "Cheese"
+        ],
+        "answer": "Grapes",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_2.mp4",
+        "duration": 403.40632292212683,
+        "question": "What color is the young man's hair at the beginning of the video?",
+        "candidates": [
+            "Yellow",
+            "Brown",
+            "White",
+            "Black",
+            "Pink",
+            "Blue"
+        ],
+        "answer": "White",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_14.mp4",
+        "duration": 453.5,
+        "question": "What did the kitten use to hit the big cat's butt?",
+        "candidates": [
+            "Wooden plank",
+            "Cannonball",
+            "Gun",
+            "Stone",
+            "Stick",
+            "Hand"
+        ],
+        "answer": "Wooden plank",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_5.mp4",
+        "duration": 499.2630615463369,
+        "question": "In the video, what first hits the cartoon octopus after it goes on stage?",
+        "candidates": [
+            "Tomato",
+            "Cabbage",
+            "Lettuce",
+            "Cucumber",
+            "Green Pepper",
+            "Egg"
+        ],
+        "answer": "Tomato",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_22.mp4",
+        "duration": 407.116439508766,
+        "question": "In the video, what do the two women do after tasting the food?",
+        "candidates": [
+            "Spit it out",
+            "Share with each other",
+            "Enjoy",
+            "Throw it away",
+            "Praise",
+            "Continue eating"
+        ],
+        "answer": "Spit it out",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_18.mp4",
+        "duration": 651.8112954069612,
+        "question": "In the video, what is the man in the black T-shirt crying while looking at?",
+        "candidates": [
+            "Scarf",
+            "Photo",
+            "Glove",
+            "Computer",
+            "Stone",
+            "Ring"
+        ],
+        "answer": "Photo",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_21.mp4",
+        "duration": 662.3029651724227,
+        "question": "Why was the turtle carrying the octopus when escaping the cave?",
+        "candidates": [
+            "The octopus was unconscious",
+            "The octopus was sick",
+            "The octopus was too tired",
+            "The octopus didn't want to leave",
+            "The octopus was injured",
+            "The octopus couldn't swim"
+        ],
+        "answer": "The octopus was unconscious",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_93.mp4",
+        "duration": 641,
+        "question": "What color are the flowers given by the man in the video?",
+        "candidates": [
+            "Green",
+            "White",
+            "Blue",
+            "Red",
+            "Pink",
+            "Purple"
+        ],
+        "answer": "Red",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_21.mp4",
+        "duration": 750.3097253436729,
+        "question": "In the video, what letters are written on the shirt of the woman standing on the table?",
+        "candidates": [
+            "USB",
+            "USA",
+            "CSB",
+            "VSA",
+            "UNA",
+            "CSA"
+        ],
+        "answer": "USA",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_22.mp4",
+        "duration": 604.2316257134521,
+        "question": "What did the big snake turn into after being defeated in the video?",
+        "candidates": [
+            "Dust",
+            "Stone",
+            "Mud",
+            "Clean water",
+            "Plant",
+            "Sewage"
+        ],
+        "answer": "Sewage",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_17.mp4",
+        "duration": 400.58,
+        "question": "At the end of the video, what are the cat and two mice doing?",
+        "candidates": [
+            "Playing soccer",
+            "Playing badminton",
+            "Dancing",
+            "Playing volleyball",
+            "Playing basketball",
+            "Fencing"
+        ],
+        "answer": "Fencing",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_13.mp4",
+        "duration": 379.33,
+        "question": "Where did the cartoon cat hide after being chased by the scissors?",
+        "candidates": [
+            "Bottle",
+            "Mouse hole",
+            "Under the bed",
+            "Doghouse",
+            "Bowl",
+            "Cabinet"
+        ],
+        "answer": "Bottle",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_13.mp4",
+        "duration": 379.33,
+        "question": "What did the cartoon mouse in the green dress conjure with the magic wand?",
+        "candidates": [
+            "Remote control",
+            "Pink potion",
+            "Stick",
+            "Scissors",
+            "Crown",
+            "Car"
+        ],
+        "answer": "Pink potion",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_1.mp4",
+        "duration": 483.07277143454803,
+        "question": "What did the yellow sponge use to fly into the sky?",
+        "candidates": [
+            "Wings",
+            "Spoon",
+            "Boat",
+            "Pot Lid",
+            "Bamboo Dragonfly",
+            "Shovel"
+        ],
+        "answer": "Shovel",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_2.mp4",
+        "duration": 733.4075768505323,
+        "question": "What is the octopus's phone in the video?",
+        "candidates": [
+            "Pineapple",
+            "Stone",
+            "Shoe",
+            "Shell",
+            "Conch",
+            "Coral"
+        ],
+        "answer": "Conch",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_22.mp4",
+        "duration": 407.116439508766,
+        "question": "In the video, what are the men hiding from the women?",
+        "candidates": [
+            "Magazine",
+            "Manual",
+            "Computer",
+            "Letter",
+            "Phone",
+            "Newspaper"
+        ],
+        "answer": "Computer",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_18.mp4",
+        "duration": 651.8112954069612,
+        "question": "At the end of the video, what are the men around the round table doing?",
+        "candidates": [
+            "Reading",
+            "Playing chess",
+            "Eating",
+            "Watching TV",
+            "Using computer",
+            "Using phone"
+        ],
+        "answer": "Playing chess",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_22.mp4",
+        "duration": 604.2316257134521,
+        "question": "What rescued the fish being chased by lava in the video?",
+        "candidates": [
+            "Turtle",
+            "Octopus",
+            "Shrimp",
+            "Seahorse",
+            "Snake",
+            "Bird"
+        ],
+        "answer": "Bird",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_90.mp4",
+        "duration": 378,
+        "question": "What color is the umbrella that is opened in the video?",
+        "candidates": [
+            "Black",
+            "White",
+            "Blue",
+            "Yellow",
+            "Red",
+            "Green"
+        ],
+        "answer": "Blue",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_1.mp4",
+        "duration": 594.6644105054177,
+        "question": "What animal do the people in the video bring back?",
+        "candidates": [
+            "Rabbit",
+            "Fox",
+            "Wolf",
+            "Bear",
+            "Cat",
+            "Dog"
+        ],
+        "answer": "Wolf",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_2.mp4",
+        "duration": 403.40632292212683,
+        "question": "What expression does the short man have while speaking indoors in the video?",
+        "candidates": [
+            "Excited",
+            "Crying",
+            "Guilty",
+            "Nervous",
+            "Fearful",
+            "Neutral"
+        ],
+        "answer": "Guilty",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_94.mp4",
+        "duration": 439,
+        "question": "What is inside the black bag that the two people are fighting over in the video?",
+        "candidates": [
+            "Rocks",
+            "Painting",
+            "Phone",
+            "Diamonds",
+            "Gold",
+            "Cash"
+        ],
+        "answer": "Cash",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_98.mp4",
+        "duration": 394,
+        "question": "After the man in white gives the item to the man in protective clothing, what happens to him?",
+        "candidates": [
+            "Killed",
+            "Imprisoned",
+            "Treated well",
+            "Beaten",
+            "Rewarded",
+            "Released"
+        ],
+        "answer": "Killed",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_21.mp4",
+        "duration": 750.3097253436729,
+        "question": "In the video, what is the woman in the gray t-shirt holding while watching TV with others?",
+        "candidates": [
+            "Toy",
+            "Phone",
+            "Spoon",
+            "Wine glass",
+            "Flashlight",
+            "Snacks"
+        ],
+        "answer": "Wine glass",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_2.mp4",
+        "duration": 733.4075768505323,
+        "question": "What kind of clothes is the squirrel wearing in the video?",
+        "candidates": [
+            "Dress",
+            "Jacket",
+            "Shirt",
+            "Spacesuit",
+            "T-shirt",
+            "Sweatshirt"
+        ],
+        "answer": "Spacesuit",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_10.mp4",
+        "duration": 586.918084061671,
+        "question": "How did the yellow sponge calm down after receiving the letter in the video?",
+        "candidates": [
+            "Jumped rope",
+            "Went for a run",
+            "Sang with the snail",
+            "Cooked",
+            "Got splashed with a bucket of water by the snail",
+            "Banged head against the wall"
+        ],
+        "answer": "Got splashed with a bucket of water by the snail",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_90.mp4",
+        "duration": 378,
+        "question": "What color clothes is the girl wearing while drinking at the beginning of the video?",
+        "candidates": [
+            "Purple",
+            "White",
+            "Black",
+            "Green",
+            "Blue",
+            "Pink"
+        ],
+        "answer": "Pink",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_6.mp4",
+        "duration": 573.0751841594767,
+        "question": "Why did the man riding the white horse fall off?",
+        "candidates": [
+            "The horse tripped over a stone",
+            "Knocked off by a soldier",
+            "The horse tripped over a branch",
+            "The horse was shot by an arrow",
+            "He was tripped by a branch",
+            "He was shot by a soldier"
+        ],
+        "answer": "Knocked off by a soldier",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_14.mp4",
+        "duration": 453.5,
+        "question": "Why did the big cat suddenly jump while teaching?",
+        "candidates": [
+            "The kitten left",
+            "The kitten was talking",
+            "The kitten was playing",
+            "The kitten fell asleep",
+            "The kitten was eating",
+            "The kitten was drinking water"
+        ],
+        "answer": "The kitten fell asleep",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_98.mp4",
+        "duration": 394,
+        "question": "What is the woman at the banquet wearing?",
+        "candidates": [
+            "Hanfu",
+            "Hanbok",
+            "Tang suit",
+            "Kimono",
+            "Dress",
+            "Shirt"
+        ],
+        "answer": "Hanbok",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_5.mp4",
+        "duration": 499.2630615463369,
+        "question": "In the video, why does the fish in the restaurant look very angry?",
+        "candidates": [
+            "Service is too slow",
+            "Arguing with each other",
+            "Food tastes bad",
+            "Poor service",
+            "Fighting with each other",
+            "Prices are too high"
+        ],
+        "answer": "Service is too slow",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_10.mp4",
+        "duration": 586.918084061671,
+        "question": "Who dirtied the yellow sponge's letter in the video?",
+        "candidates": [
+            "Cartoon starfish",
+            "Cartoon snail",
+            "Cartoon sponge",
+            "Cartoon squirrel",
+            "Cartoon octopus",
+            "Cartoon crab"
+        ],
+        "answer": "Cartoon snail",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_movie101_93.mp4",
+        "duration": 641,
+        "question": "What is the emotion of the woman in black inspecting the suitcase at the beginning of the video?",
+        "candidates": [
+            "Excited",
+            "Angry",
+            "Terrified",
+            "Nervous",
+            "Neutral",
+            "Sad"
+        ],
+        "answer": "Angry",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_1.mp4",
+        "duration": 594.6644105054177,
+        "question": "What are the girls doing at the beginning of the video?",
+        "candidates": [
+            "Archery",
+            "Makeup",
+            "Playing",
+            "Playing ping pong",
+            "Embroidery",
+            "Acupuncture"
+        ],
+        "answer": "Embroidery",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_3.mp4",
+        "duration": 572.577543878504,
+        "question": "What is inside the moldy hamburger in the video?",
+        "candidates": [
+            "Rubber skin",
+            "Iron sheet",
+            "Cement",
+            "Glass",
+            "Wooden board",
+            "Plastic"
+        ],
+        "answer": "Wooden board",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_25.mp4",
+        "duration": 595.179419114368,
+        "question": "In the video, what did the woman in the floral dress hit with a candy?",
+        "candidates": [
+            "A man's mouth",
+            "A mirror",
+            "A woman's hand",
+            "Another woman's head",
+            "A bowl",
+            "A man's arm"
+        ],
+        "answer": "Another woman's head",
+        "question_type": "plotQA"
+    },
+    {
+        "video": "MLVU_test/test_entv_5.mp4",
+        "duration": 700.678139986795,
+        "question": "In the video, what color is the dress worn by the woman on the sailboat?",
+        "candidates": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Purple",
+            "White",
+            "Green"
+        ],
+        "answer": "Blue",
+        "question_type": "plotQA"
+    }
+]

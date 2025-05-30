@@ -1,0 +1,797 @@
+[
+    {
+        "video": "MLVU_test/test_ego_9.mp4",
+        "duration": 480.0666666666667,
+        "question": "Where was the phone charger",
+        "candidates": [
+            "in the socket beside the dining",
+            "on the kitchen counter",
+            "in the living room",
+            "on the coffee table",
+            "under the couch",
+            "in the bedroom drawer"
+        ],
+        "answer": "in the socket beside the dining",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "What did I put in the dustbin?",
+        "candidates": [
+            "Books",
+            "Leftover food",
+            "Trash cleaned from the floor.",
+            "Recyclable materials",
+            "Laundry",
+            "Toys"
+        ],
+        "answer": "Trash cleaned from the floor.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "Where did I keep the game board?",
+        "candidates": [
+            "On the bookshelf",
+            "In the closet",
+            "Under the bed",
+            "On the coffee table",
+            "In the game box.",
+            "In the kitchen drawer"
+        ],
+        "answer": "In the game box.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_8.mp4",
+        "duration": 480.0,
+        "question": "Did I leave the projector on",
+        "candidates": [
+            "not sure",
+            "possibly",
+            "I don't know",
+            "no",
+            "yes",
+            "maybe"
+        ],
+        "answer": "yes",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_4.mp4",
+        "duration": 480.0333333333333,
+        "question": "How many bicycles were at the entrance lobby of my apartment",
+        "candidates": [
+            "3",
+            "4",
+            "6",
+            "5",
+            "2",
+            "1"
+        ],
+        "answer": "2",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "What word was printed in blue on the white box?",
+        "candidates": [
+            "Cheez-It",
+            "Club Crackers",
+            "Triscuit.",
+            "Ritz",
+            "Wheat Thins",
+            "Saltines"
+        ],
+        "answer": "Triscuit.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_8.mp4",
+        "duration": 480.0,
+        "question": "How many flat plastic plates were on the table",
+        "candidates": [
+            "3",
+            "6",
+            "1",
+            "4",
+            "2",
+            "5"
+        ],
+        "answer": "2",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_0.mp4",
+        "duration": 480.0,
+        "question": "What did I put on the drum?",
+        "candidates": [
+            "Book",
+            "Machine tool",
+            "Bottle",
+            "Sticker",
+            "Paint",
+            "Cloth"
+        ],
+        "answer": "Machine tool",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_5.mp4",
+        "duration": 480.0,
+        "question": "Where was the brown box?",
+        "candidates": [
+            "Behind the black door",
+            "In front of the black door",
+            "In front of the white door",
+            "On top of the black door",
+            "Under the black door",
+            "Next to the black door"
+        ],
+        "answer": "In front of the black door",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "Where was my phone before I picked it up",
+        "candidates": [
+            "on the arm of the couch",
+            "in your car",
+            "on the coffee table",
+            "on the dining table",
+            "in your bedroom",
+            "on the kitchen counter"
+        ],
+        "answer": "on the arm of the couch",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "What colour dustpan did I hold while cleaning the floor?",
+        "candidates": [
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "White.",
+            "Black"
+        ],
+        "answer": "White.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_8.mp4",
+        "duration": 480.0,
+        "question": "Who did I interact with when I carried the plate of food from the kitchen divider",
+        "candidates": [
+            "the elderly gentleman with a cane",
+            "the child with a blue hat",
+            "the lady with a yellow scarf",
+            "the man in black shorts",
+            "the teenager in a green hoodie",
+            "the woman in a red dress"
+        ],
+        "answer": "the man in black shorts",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_3.mp4",
+        "duration": 480.0,
+        "question": "Where was the forks?",
+        "candidates": [
+            "in the dishwasher",
+            "in the kitchen drawer.",
+            "in the bedroom",
+            "on the dining table",
+            "in the living room",
+            "in the pantry"
+        ],
+        "answer": "in the kitchen drawer.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_9.mp4",
+        "duration": 480.0666666666667,
+        "question": "Did I leave the curtains in the dining drawn open",
+        "candidates": [
+            "partially",
+            "slightly open",
+            "yes",
+            "closed",
+            "no",
+            "half-drawn"
+        ],
+        "answer": "yes",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_10.mp4",
+        "duration": 480.0333333333333,
+        "question": "Did I leave the television on?",
+        "candidates": [
+            "No, you didn't",
+            "Yes, but it was turned off later",
+            "Yes, I did",
+            "I don't know, I wasn't there",
+            "Maybe, I'm not sure",
+            "No, it was never on"
+        ],
+        "answer": "Yes, I did",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "Where was the scissor?",
+        "candidates": [
+            "In the drawer under the table",
+            "On the window behind the rack",
+            "Next to the lamp on the nightstand",
+            "On the shelf next to the books",
+            "Inside the cabinet above the sink",
+            "Under the couch in the living room"
+        ],
+        "answer": "On the window behind the rack",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_9.mp4",
+        "duration": 480.0666666666667,
+        "question": "What colour was the high chair in the dining",
+        "candidates": [
+            "yellow",
+            "blue",
+            "red",
+            "white",
+            "green",
+            "black"
+        ],
+        "answer": "white",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "Did I leave the television on",
+        "candidates": [
+            "no",
+            "maybe",
+            "I don't know",
+            "yes",
+            "probably not",
+            "unlikely"
+        ],
+        "answer": "yes",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_10.mp4",
+        "duration": 480.0333333333333,
+        "question": "Where did I put the dirt?",
+        "candidates": [
+            "In the garden",
+            "In the dustbin",
+            "Under the rug",
+            "In the garage",
+            "In the attic",
+            "In the compost bin"
+        ],
+        "answer": "In the dustbin",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_0.mp4",
+        "duration": 480.0,
+        "question": "Did I leave the drawer door open?",
+        "candidates": [
+            "Not sure",
+            "Possibly",
+            "Maybe",
+            "I don't remember",
+            "Yes",
+            "No"
+        ],
+        "answer": "No",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "Where was the scissor?",
+        "candidates": [
+            "In the cupboard beside the fridge.",
+            "On the table next to the lamp.",
+            "Inside the drawer under the desk.",
+            "On the window behind the white rack.",
+            "On the shelf above the television.",
+            "Under the sofa near the window."
+        ],
+        "answer": "On the window behind the white rack.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_3.mp4",
+        "duration": 480.0,
+        "question": "Where was the fork?",
+        "candidates": [
+            "in the pantry",
+            "on the kitchen counter",
+            "in the dishwasher",
+            "on the dining table",
+            "in the sink",
+            "in utensil organizer"
+        ],
+        "answer": "in utensil organizer",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "Where did I put the carton of tools",
+        "candidates": [
+            "on the bed",
+            "under the sink",
+            "in the garage",
+            "on the kitchen counter",
+            "in the closet",
+            "in the car trunk"
+        ],
+        "answer": "on the bed",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_4.mp4",
+        "duration": 480.0333333333333,
+        "question": "Did I  close the cupboard I took the plastic jar from",
+        "candidates": [
+            "Maybe",
+            "I think so",
+            "Yes",
+            "Not sure",
+            "I don't remember",
+            "No"
+        ],
+        "answer": "Yes",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "Where did I put the game board?",
+        "candidates": [
+            "On the coffee table",
+            "On the bookshelf",
+            "In the game box.",
+            "In the drawer",
+            "Under the bed",
+            "In the closet"
+        ],
+        "answer": "In the game box.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_10.mp4",
+        "duration": 480.0333333333333,
+        "question": "What colour was the cloth I placed on the table?",
+        "candidates": [
+            "light gray",
+            "white",
+            "ivory",
+            "cream",
+            "off-white",
+            "beige"
+        ],
+        "answer": "white",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_8.mp4",
+        "duration": 480.0,
+        "question": "Where was the red ball",
+        "candidates": [
+            "in the passageway",
+            "at the park",
+            "on the rooftop",
+            "under the bed",
+            "in the car",
+            "in the kitchen"
+        ],
+        "answer": "in the passageway",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_1.mp4",
+        "duration": 480.0,
+        "question": "Where was the Russell Stover before I picked it up ?",
+        "candidates": [
+            "The Russell Stover was in the refrigerator before I picked it up.",
+            "The Russell Stover was on the counter before I picked it up.",
+            "The Russell Stover was on the shelf before I picked it up.",
+            "The Russell Stover was on the table before I picked it up.",
+            "The Russell Stover was on the rack before I picked it up.",
+            "The Russell Stover was in the drawer before I picked it up."
+        ],
+        "answer": "The Russell Stover was on the rack before I picked it up.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_8.mp4",
+        "duration": 480.0,
+        "question": "Where was the napkin before I picked it up",
+        "candidates": [
+            "on the table",
+            "in the drawer",
+            "on the countertop",
+            "on the floor",
+            "in the sink",
+            "on the chair"
+        ],
+        "answer": "on the countertop",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_9.mp4",
+        "duration": 480.0666666666667,
+        "question": "What colour was the internet router",
+        "candidates": [
+            "white",
+            "red",
+            "grey",
+            "green",
+            "blue",
+            "black"
+        ],
+        "answer": "white",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "In what location did I first see the laptop",
+        "candidates": [
+            "on the dining table",
+            "on the top shelf of the wardrobe",
+            "next to the sofa",
+            "under the bed",
+            "in the living room cabinet",
+            "in the lower section of the bedside cupboard"
+        ],
+        "answer": "in the lower section of the bedside cupboard",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_8.mp4",
+        "duration": 480.0,
+        "question": "Where did I put the aluminum foil plate",
+        "candidates": [
+            "in the microwave",
+            "on the kitchen counter",
+            "in the dishwasher",
+            "in the oven",
+            "in the  fridge",
+            "in the pantry"
+        ],
+        "answer": "in the  fridge",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_0.mp4",
+        "duration": 480.0,
+        "question": "What did I put in the dustbin?",
+        "candidates": [
+            "Plastic bag",
+            "Food waste",
+            "Metal can",
+            "Paper cup",
+            "Cardboard box",
+            "Glass bottle"
+        ],
+        "answer": "Plastic bag",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_9.mp4",
+        "duration": 480.0666666666667,
+        "question": "Who did I interact with when I last operated my tablet on the kitchen divider",
+        "candidates": [
+            "the woman in white",
+            "the woman in green",
+            "the teenager in black",
+            "the child in yellow",
+            "the man in blue",
+            "the elderly lady in red"
+        ],
+        "answer": "the woman in green",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "What food did I first take from the pack of food on the table",
+        "candidates": [
+            "chicken nuggets",
+            "french fries",
+            "cookies",
+            "sandwich",
+            "potato chips",
+            "apple slices"
+        ],
+        "answer": "french fries",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_8.mp4",
+        "duration": 480.0,
+        "question": "In what location did I last see the dog",
+        "candidates": [
+            "in the front yard",
+            "in the kitchen",
+            "in the backyard",
+            "in the garage",
+            "in the bedroom",
+            "in the living room"
+        ],
+        "answer": "in the kitchen",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "In what location did I first see the pack of wipes",
+        "candidates": [
+            "in the living room drawer",
+            "in the hallway closet",
+            "on the kitchen counter",
+            "on the dining table",
+            "in the bathroom cabinet",
+            "on the bedside cupboard"
+        ],
+        "answer": "on the bedside cupboard",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_10.mp4",
+        "duration": 480.0333333333333,
+        "question": "Did I leave the door open?",
+        "candidates": [
+            "No, I didn't",
+            "I'm not sure",
+            "I think so",
+            "Yes, you did",
+            "Possibly",
+            "Maybe"
+        ],
+        "answer": "No, I didn't",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_4.mp4",
+        "duration": 480.0333333333333,
+        "question": "Did I leave the Tv on",
+        "candidates": [
+            "not sure",
+            "I don't know",
+            "possibly",
+            "yes",
+            "maybe",
+            "no"
+        ],
+        "answer": "yes",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "What word was printed on the cap of the bottle with yellow liquid on the window?",
+        "candidates": [
+            "Nestea",
+            "Snapple",
+            "Pure Leaf",
+            "Tejava.",
+            "Arizona",
+            "Lipton"
+        ],
+        "answer": "Tejava.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_4.mp4",
+        "duration": 480.0333333333333,
+        "question": "Where did I put the white earpiece",
+        "candidates": [
+            "on the dining room chair",
+            "on the office desk",
+            "in the bedroom drawer",
+            "in the car console",
+            "on the kitchen table",
+            "on the grey couch"
+        ],
+        "answer": "on the grey couch",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_4.mp4",
+        "duration": 480.0333333333333,
+        "question": "How many glass cups were in front of the white plate rack on the countertop",
+        "candidates": [
+            "4",
+            "1",
+            "6",
+            "2",
+            "3",
+            "5"
+        ],
+        "answer": "2",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_4.mp4",
+        "duration": 480.0333333333333,
+        "question": "Where was the knife after I sliced the limes",
+        "candidates": [
+            "in the refrigerator",
+            "on the dining table",
+            "on the kitchen counter",
+            "on the cutting board",
+            "in the dishwasher",
+            "on a bowl in the sink"
+        ],
+        "answer": "on a bowl in the sink",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_7.mp4",
+        "duration": 480.0000000000001,
+        "question": "What word was printed on the white box kept in the middle rack of the white stand?",
+        "candidates": [
+            "Triscuit.",
+            "Biscuit",
+            "Cracker",
+            "Wheat Thin",
+            "Cheez-It",
+            "Snack"
+        ],
+        "answer": "Triscuit.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "Who did I interact with when I fixed the television",
+        "candidates": [
+            "the man in a blue shirt",
+            "the girl with a red hat",
+            "the guy with orange hair",
+            "the boy with a green jacket",
+            "the woman with glasses",
+            "the elderly gentleman with a cane"
+        ],
+        "answer": "the guy with orange hair",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_3.mp4",
+        "duration": 480.0,
+        "question": "Where was the cheese pack?",
+        "candidates": [
+            "in the oven",
+            "in the cupboard",
+            "in the microwave",
+            "on the counter",
+            "in the fridge",
+            "in the pantry"
+        ],
+        "answer": "in the fridge",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_0.mp4",
+        "duration": 480.0,
+        "question": "Where was the screw packet after I tore it up?",
+        "candidates": [
+            "In my pocket",
+            "Under the sofa",
+            "On the table",
+            "Next to the toolbox",
+            "In the dustbin",
+            "In the drawer"
+        ],
+        "answer": "In the dustbin",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_9.mp4",
+        "duration": 480.0666666666667,
+        "question": "In what location did I first see the yellow ball",
+        "candidates": [
+            "in the closet",
+            "behind the door",
+            "under the chair",
+            "next to the couch",
+            "inside the drawer",
+            "on the table"
+        ],
+        "answer": "under the chair",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_6.mp4",
+        "duration": 480.03333333333336,
+        "question": "Where did I put the blue toolbox",
+        "candidates": [
+            "on the floor",
+            "in the closet",
+            "in the garage",
+            "behind the door",
+            "under the table",
+            "on the shelf"
+        ],
+        "answer": "on the floor",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_10.mp4",
+        "duration": 480.0333333333333,
+        "question": "Where was the dog before I left the house?",
+        "candidates": [
+            "In the living room",
+            "In the backyard",
+            "In the bedroom",
+            "In the bathroom",
+            "In the garage",
+            "In the kitchen"
+        ],
+        "answer": "In the kitchen",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_2.mp4",
+        "duration": 388.76666662083335,
+        "question": "What did I pour in the mug?",
+        "candidates": [
+            "Juice",
+            "Soda",
+            "Tea",
+            "Water",
+            "Coffee",
+            "Milk"
+        ],
+        "answer": "Water",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_1.mp4",
+        "duration": 480.0,
+        "question": "Where was the ballast point brewing before I picked it up?\n\n",
+        "candidates": [
+            "The ballast point brewing was on the counter before I picked it up.",
+            "The ballast point brewing was on the porch before I picked it up.",
+            "The ballast point brewing was in the garage before I picked it up.",
+            "The ballast point brewing was in the pantry before I picked it up.",
+            "The ballast point brewing was in the basement before I picked it up.",
+            "The ballast point brewing was in the fridge before I picked it up."
+        ],
+        "answer": "The ballast point brewing was in the fridge before I picked it up.",
+        "question_type": "ego"
+    },
+    {
+        "video": "MLVU_test/test_ego_2.mp4",
+        "duration": 388.76666662083335,
+        "question": "How many pans did I see?",
+        "candidates": [
+            "7",
+            "5",
+            "6",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "4",
+        "question_type": "ego"
+    }
+]

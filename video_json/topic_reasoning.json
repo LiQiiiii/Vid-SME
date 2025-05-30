@@ -1,0 +1,1367 @@
+[
+    {
+        "video": "MLVU_test/test_game_2.mp4",
+        "duration": 329,
+        "question": "Under what kind of scenario is this building being constructed?",
+        "candidates": [
+            "City",
+            "Beach",
+            "Grassland",
+            "Forest",
+            "Snowy terrain",
+            "Desert"
+        ],
+        "answer": "Snowy terrain",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_90.mp4",
+        "duration": 378,
+        "question": "What genre is this film?",
+        "candidates": [
+            "Mystery",
+            "Action",
+            "Romance",
+            "Comedy",
+            "Thriller",
+            "Crime"
+        ],
+        "answer": "Romance",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_21.mp4",
+        "duration": 750.3097253436729,
+        "question": "What is the setting of the video?",
+        "candidates": [
+            "Countryside",
+            "Forest",
+            "Campus",
+            "Desert",
+            "Beach",
+            "City"
+        ],
+        "answer": "City",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_UWA-6.mp4",
+        "duration": 450.0,
+        "question": "How many types of animals appeared in the video?",
+        "candidates": [
+            "5",
+            "1",
+            "3",
+            "6",
+            "2",
+            "4"
+        ],
+        "answer": "4",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_21.mp4",
+        "duration": 662.3029651724227,
+        "question": "Who is the main character of the entire video?",
+        "candidates": [
+            "Rabbit",
+            "Dog",
+            "Turtle",
+            "Cow",
+            "Cat",
+            "Snake"
+        ],
+        "answer": "Turtle",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_5.mp4",
+        "duration": 269,
+        "question": "What type of vehicle is being constructed in the video?",
+        "candidates": [
+            "Bus",
+            "Pickup",
+            "Excavator",
+            "Truck",
+            "Train",
+            "Car"
+        ],
+        "answer": "Bus",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_25.mp4",
+        "duration": 595.179419114368,
+        "question": "What is the genre of this film?",
+        "candidates": [
+            "Science Fiction",
+            "Horror",
+            "War",
+            "Action",
+            "Comedy",
+            "Documentary"
+        ],
+        "answer": "Comedy",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_2.mp4",
+        "duration": 403.40632292212683,
+        "question": "What is the setting of the entire video?",
+        "candidates": [
+            "Castle",
+            "Desert",
+            "Library",
+            "Seaside",
+            "Campus",
+            "City"
+        ],
+        "answer": "Castle",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_22.mp4",
+        "duration": 407.116439508766,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Ocean",
+            "Desert",
+            "Campus",
+            "Forest",
+            "Countryside",
+            "Urban"
+        ],
+        "answer": "Urban",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_2.mp4",
+        "duration": 733.4075768505323,
+        "question": "What kind of environment does the entire video take place in?",
+        "candidates": [
+            "Underwater",
+            "Forest",
+            "Supermarket",
+            "Campus",
+            "Desert",
+            "Library"
+        ],
+        "answer": "Underwater",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_BWB-4.mp4",
+        "duration": 450.08,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Action",
+            "Comedy",
+            "Animation",
+            "Horror",
+            "Romance",
+            "Documentary"
+        ],
+        "answer": "Documentary",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_21.mp4",
+        "duration": 750.3097253436729,
+        "question": "What genre is this film?",
+        "candidates": [
+            "Sci-Fi",
+            "Documentary",
+            "War",
+            "Horror",
+            "Comedy",
+            "Action"
+        ],
+        "answer": "Comedy",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_1.mp4",
+        "duration": 316,
+        "question": "What kind of building is most likely being constructed in the video?",
+        "candidates": [
+            "Skyscraper",
+            "Lighthouse",
+            "Bungalow",
+            "Villa",
+            "Temple",
+            "Palace"
+        ],
+        "answer": "Lighthouse",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_22.mp4",
+        "duration": 604.2316257134521,
+        "question": "In what environment does the video take place?",
+        "candidates": [
+            "Underwater",
+            "Forest",
+            "City",
+            "Countryside",
+            "Desert",
+            "Campus"
+        ],
+        "answer": "Underwater",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_travel_0.mp4",
+        "duration": 749.89,
+        "question": "What type of video is this?",
+        "candidates": [
+            "Planting",
+            "Travel",
+            "Education",
+            "Sports",
+            "Medical",
+            "Cooking"
+        ],
+        "answer": "Travel",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_12.mp4",
+        "duration": 203,
+        "question": "In what setting does the main action in the video occur?",
+        "candidates": [
+            "Cave",
+            "Palace",
+            "Flatland",
+            "Cabin",
+            "Roof",
+            "Attic"
+        ],
+        "answer": "Cave",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_food_5.mp4",
+        "duration": 721.77,
+        "question": "What is the main environment in which the video takes place?",
+        "candidates": [
+            "Classroom",
+            "Shopping Mall",
+            "Park",
+            "Field",
+            "Factory",
+            "Street"
+        ],
+        "answer": "Field",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_14.mp4",
+        "duration": 453.5,
+        "question": "What event is mainly described in the video?",
+        "candidates": [
+            "Social reform",
+            "Dance performance",
+            "Comical chase",
+            "Political struggle",
+            "Mythical story",
+            "Time travel"
+        ],
+        "answer": "Comical chase",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_5.mp4",
+        "duration": 700.678139986795,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Castle",
+            "Forest",
+            "Desert",
+            "Countryside",
+            "Ocean",
+            "Campus"
+        ],
+        "answer": "Castle",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_94.mp4",
+        "duration": 439,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Urban",
+            "Forest",
+            "Ocean",
+            "Desert",
+            "Countryside",
+            "Campus"
+        ],
+        "answer": "Urban",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_UWA-6.mp4",
+        "duration": 450.0,
+        "question": "Which animal is primarily discussed in the second half of the video?",
+        "candidates": [
+            "Elephant",
+            "Rhino",
+            "Crocodile",
+            "Deer",
+            "Dragonfly",
+            "Bird"
+        ],
+        "answer": "Deer",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_23.mp4",
+        "duration": 727.120353586435,
+        "question": "In what environment does the scene in the video take place?",
+        "candidates": [
+            "Desert",
+            "Grassland",
+            "Snow mountain",
+            "Forest",
+            "Ocean",
+            "City"
+        ],
+        "answer": "Ocean",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_3.mp4",
+        "duration": 317,
+        "question": "What is the primary mode of transportation the character is using in this video?",
+        "candidates": [
+            "Riding a bus",
+            "Rowing a boat",
+            "Driving a car",
+            "Walking",
+            "Riding a bicycle",
+            "Riding a train"
+        ],
+        "answer": "Rowing a boat",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_6.mp4",
+        "duration": 573.0751841594767,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Campus",
+            "Countryside",
+            "Ocean",
+            "Desert",
+            "Forest",
+            "Castle"
+        ],
+        "answer": "Castle",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_2.mp4",
+        "duration": 733.4075768505323,
+        "question": "Which animal does not appear in the entire video?",
+        "candidates": [
+            "Octopus",
+            "Fish",
+            "Starfish",
+            "Snail",
+            "Dog",
+            "Squirrel"
+        ],
+        "answer": "Dog",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_10.mp4",
+        "duration": 586.918084061671,
+        "question": "How many cartoon characters appear in the video?",
+        "candidates": [
+            "3",
+            "6",
+            "4",
+            "2",
+            "1",
+            "5"
+        ],
+        "answer": "6",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_15.mp4",
+        "duration": 423.52,
+        "question": "What genre of movie is the clip in the video?",
+        "candidates": [
+            "Comedy",
+            "War",
+            "Animation",
+            "Documentary",
+            "Romance",
+            "Horror"
+        ],
+        "answer": "Animation",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_10.mp4",
+        "duration": 236,
+        "question": "What type of vehicle is being constructed in the video?",
+        "candidates": [
+            "Bus",
+            "Car",
+            "Train",
+            "Truck",
+            "High-speed rail",
+            "Pickup"
+        ],
+        "answer": "Train",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_4.mp4",
+        "duration": 632.9816415843876,
+        "question": "In what environment does the scene in the video take place?",
+        "candidates": [
+            "Forest",
+            "City",
+            "Snow Mountain",
+            "Grassland",
+            "Ocean",
+            "Desert"
+        ],
+        "answer": "Ocean",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_21.mp4",
+        "duration": 662.3029651724227,
+        "question": "In what environment does the video take place?",
+        "candidates": [
+            "Forest",
+            "Countryside",
+            "City",
+            "Underwater",
+            "Desert",
+            "Campus"
+        ],
+        "answer": "Underwater",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_AWD-3.mp4",
+        "duration": 450.13,
+        "question": "In what kind of environment does the video take place?",
+        "candidates": [
+            "City",
+            "Station",
+            "Snowy area",
+            "Desert",
+            "School",
+            "Countryside"
+        ],
+        "answer": "Snowy area",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_BWB-4.mp4",
+        "duration": 450.08,
+        "question": "How many types of animals appeared in the video?",
+        "candidates": [
+            "5",
+            "1",
+            "3",
+            "2",
+            "4",
+            "6"
+        ],
+        "answer": "6",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_97.mp4",
+        "duration": 556,
+        "question": "What event does the entire video depict?",
+        "candidates": [
+            "Romantic event",
+            "Pursuit event",
+            "Natural disaster event",
+            "Political event",
+            "Medical event",
+            "Sports event"
+        ],
+        "answer": "Pursuit event",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_22.mp4",
+        "duration": 604.2316257134521,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Documentary",
+            "War",
+            "Action",
+            "Animated film",
+            "Romance",
+            "Horror"
+        ],
+        "answer": "Animated film",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_3.mp4",
+        "duration": 572.577543878504,
+        "question": "In what environment does the scene in the video take place?",
+        "candidates": [
+            "Grassland",
+            "Snow Mountain",
+            "Forest",
+            "Desert",
+            "Ocean",
+            "City"
+        ],
+        "answer": "Ocean",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_11.mp4",
+        "duration": 304,
+        "question": "Which animal is primarily featured in the video?",
+        "candidates": [
+            "Cow",
+            "Horse",
+            "Camel",
+            "Giraffe",
+            "Sheep",
+            "Moose"
+        ],
+        "answer": "Cow",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_94.mp4",
+        "duration": 439,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Romance",
+            "Crime thriller",
+            "Horror",
+            "Sci-fi",
+            "Documentary",
+            "War"
+        ],
+        "answer": "Crime thriller",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_6.mp4",
+        "duration": 573.0751841594767,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Action",
+            "Adventure",
+            "Horror",
+            "Romance",
+            "War",
+            "Documentary"
+        ],
+        "answer": "Adventure",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_13.mp4",
+        "duration": 678.6181831810065,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Horror",
+            "Documentary",
+            "Romance",
+            "Action",
+            "War",
+            "Comedy"
+        ],
+        "answer": "Comedy",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_10.mp4",
+        "duration": 586.918084061671,
+        "question": "In what environment does the video take place?",
+        "candidates": [
+            "Underwater",
+            "Countryside",
+            "Desert",
+            "Forest",
+            "City",
+            "Campus"
+        ],
+        "answer": "Underwater",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_5.mp4",
+        "duration": 700.678139986795,
+        "question": "What genre is this film?",
+        "candidates": [
+            "Documentary",
+            "Horror",
+            "Adventure",
+            "War",
+            "Romance",
+            "Action"
+        ],
+        "answer": "Adventure",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_5.mp4",
+        "duration": 499.2630615463369,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Underwater",
+            "Forest",
+            "Countryside",
+            "Desert",
+            "Campus",
+            "City"
+        ],
+        "answer": "Underwater",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_9.mp4",
+        "duration": 291,
+        "question": "What is being constructed in the video?",
+        "candidates": [
+            "Pond",
+            "Swimming pool",
+            "Garden",
+            "Lake",
+            "Yard",
+            "Landscape"
+        ],
+        "answer": "Swimming pool",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_dailylife_1.mp4",
+        "duration": 487.04,
+        "question": "What action is primarily depicted in the video?",
+        "candidates": [
+            "Playing music",
+            "Driving a car",
+            "Working in an office",
+            "Visiting an exhibition",
+            "Food preparation",
+            "Playing sports"
+        ],
+        "answer": "Food preparation",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_4.mp4",
+        "duration": 244,
+        "question": "What is the main image being constructed in the video?",
+        "candidates": [
+            "Middle-aged man",
+            "Little girl",
+            "Elderly man",
+            "Little boy",
+            "Middle-aged woman",
+            "Elderly woman"
+        ],
+        "answer": "Little girl",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_1.mp4",
+        "duration": 483.07277143454803,
+        "question": "Who is the main character in the video?",
+        "candidates": [
+            "Crab",
+            "Snail",
+            "Fish",
+            "Pink Starfish",
+            "Octopus",
+            "Yellow Sponge"
+        ],
+        "answer": "Yellow Sponge",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_1.mp4",
+        "duration": 594.6644105054177,
+        "question": "What genre is this film?",
+        "candidates": [
+            "Action",
+            "Mystery",
+            "Crime",
+            "Comedy",
+            "Thriller",
+            "Adventure"
+        ],
+        "answer": "Adventure",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_dailylife_2.mp4",
+        "duration": 532.81,
+        "question": "What action is primarily shown in the video?",
+        "candidates": [
+            "Mountain climbing",
+            "Running",
+            "Working",
+            "Gaming",
+            "Driving",
+            "Applying makeup"
+        ],
+        "answer": "Applying makeup",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_1.mp4",
+        "duration": 483.07277143454803,
+        "question": "In what environment does the video take place?",
+        "candidates": [
+            "Campus",
+            "Desert",
+            "Underwater",
+            "Snowfield",
+            "Forest",
+            "Library"
+        ],
+        "answer": "Underwater",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_1.mp4",
+        "duration": 594.6644105054177,
+        "question": "In what setting does the entire video take place?",
+        "candidates": [
+            "Desert",
+            "Beach",
+            "City",
+            "Campus",
+            "Library",
+            "Castle"
+        ],
+        "answer": "Castle",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_93.mp4",
+        "duration": 641,
+        "question": "In what setting does the entire video take place?",
+        "candidates": [
+            "Library",
+            "Beach",
+            "Forest",
+            "City",
+            "Campus",
+            "Desert"
+        ],
+        "answer": "City",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_98.mp4",
+        "duration": 394,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Horror",
+            "Sci-fi",
+            "Documentary",
+            "Crime film",
+            "War",
+            "Romance"
+        ],
+        "answer": "Crime film",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_93.mp4",
+        "duration": 641,
+        "question": "What genre is this film?",
+        "candidates": [
+            "Mystery",
+            "Thriller",
+            "Romance",
+            "Comedy",
+            "Action",
+            "Crime"
+        ],
+        "answer": "Romance",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_game_6.mp4",
+        "duration": 227,
+        "question": "What type of house is being constructed in the video?",
+        "candidates": [
+            "Cabin",
+            "Attic",
+            "Basement",
+            "Apartment building",
+            "Bungalow",
+            "Palace"
+        ],
+        "answer": "Basement",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_25.mp4",
+        "duration": 595.179419114368,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Forest",
+            "Campus",
+            "Countryside",
+            "Ocean",
+            "Urban",
+            "Desert"
+        ],
+        "answer": "Urban",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_98.mp4",
+        "duration": 394,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Urban",
+            "Countryside",
+            "Campus",
+            "Ocean",
+            "Forest",
+            "Desert"
+        ],
+        "answer": "Urban",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_13.mp4",
+        "duration": 379.33,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Romance film",
+            "Horror film",
+            "Animated film",
+            "Action film",
+            "Documentary film",
+            "War film"
+        ],
+        "answer": "Animated film",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_17.mp4",
+        "duration": 400.58,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Action",
+            "Romance",
+            "Animation",
+            "Horror",
+            "Documentary",
+            "War"
+        ],
+        "answer": "Animation",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_14.mp4",
+        "duration": 453.5,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Action",
+            "Documentary",
+            "Animation",
+            "Horror",
+            "War",
+            "Romance"
+        ],
+        "answer": "Animation",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_13.mp4",
+        "duration": 379.33,
+        "question": "Who are the main characters in the video?",
+        "candidates": [
+            "Cat and Dog",
+            "Dog and Rabbit",
+            "Mouse and Rabbit",
+            "Dog and Mouse",
+            "Cat and Mouse",
+            "Cat and Rabbit"
+        ],
+        "answer": "Cat and Mouse",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_AWD-3.mp4",
+        "duration": 450.13,
+        "question": "How many types of animals appear in the video?",
+        "candidates": [
+            "3",
+            "4",
+            "1",
+            "2",
+            "5",
+            "6"
+        ],
+        "answer": "5",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_AWC-4.mp4",
+        "duration": 450.0,
+        "question": "How many scenes were transitioned in the video?",
+        "candidates": [
+            "6",
+            "1",
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "answer": "3",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_5.mp4",
+        "duration": 499.2630615463369,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Horror",
+            "War",
+            "Documentary",
+            "Action",
+            "Romance",
+            "Animated Film"
+        ],
+        "answer": "Animated Film",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_pet_2.mp4",
+        "duration": 679.6,
+        "question": "What is the main environment shown in the video?",
+        "candidates": [
+            "Factory",
+            "Park",
+            "Zoo",
+            "Street",
+            "Home",
+            "Farm"
+        ],
+        "answer": "Home",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_99.mp4",
+        "duration": 464,
+        "question": "What genre of movie is the clip in the video?",
+        "candidates": [
+            "War",
+            "Horror",
+            "Animation",
+            "Romance",
+            "Documentary",
+            "Comedy"
+        ],
+        "answer": "Romance",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_pet_1.mp4",
+        "duration": 561.2,
+        "question": "What is the main animal shown in the video?",
+        "candidates": [
+            "Pig",
+            "Sheep",
+            "Cow",
+            "Horse",
+            "Dog",
+            "Cat"
+        ],
+        "answer": "Dog",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_BWG-4.mp4",
+        "duration": 450.0,
+        "question": "In what environment does the scene in the video take place?",
+        "candidates": [
+            "Desert",
+            "Snow Mountain",
+            "Ocean",
+            "Plains",
+            "Rainforest",
+            "City"
+        ],
+        "answer": "Plains",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_AWG-1.mp4",
+        "duration": 450.04,
+        "question": "In what environment does the scene in the video take place?",
+        "candidates": [
+            "Snow Mountain",
+            "Ocean",
+            "Wilderness",
+            "Rainforest",
+            "City",
+            "Desert"
+        ],
+        "answer": "Wilderness",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_90.mp4",
+        "duration": 378,
+        "question": "In what setting does the entire video take place?",
+        "candidates": [
+            "Beach",
+            "Library",
+            "Desert",
+            "City",
+            "Forest",
+            "Campus"
+        ],
+        "answer": "City",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_97.mp4",
+        "duration": 556,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Crime film",
+            "Science fiction film",
+            "War film",
+            "Horror film",
+            "Romance film",
+            "Documentary film"
+        ],
+        "answer": "Crime film",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_23.mp4",
+        "duration": 727.120353586435,
+        "question": "What genre of movie is the clip from?",
+        "candidates": [
+            "Romantic film",
+            "Animated film",
+            "War film",
+            "Comedy film",
+            "Documentary",
+            "Horror film"
+        ],
+        "answer": "Animated film",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_2.mp4",
+        "duration": 403.40632292212683,
+        "question": "What genre is this film?",
+        "candidates": [
+            "Adventure",
+            "Mystery",
+            "Thriller",
+            "Action",
+            "Crime",
+            "Comedy"
+        ],
+        "answer": "Adventure",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_BWB-5.mp4",
+        "duration": 450.12,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Animation",
+            "Horror",
+            "Comedy",
+            "Action",
+            "Romance",
+            "Documentary"
+        ],
+        "answer": "Documentary",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_99.mp4",
+        "duration": 464,
+        "question": "Under what environmental conditions does the scene in the video take place?",
+        "candidates": [
+            "City",
+            "Rainforest",
+            "Snow Mountain",
+            "Desert",
+            "Ocean",
+            "Island"
+        ],
+        "answer": "City",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_travel_1.mp4",
+        "duration": 614.96,
+        "question": "Where is the video mainly shot?",
+        "candidates": [
+            "River",
+            "Lake",
+            "Plateau",
+            "Grassland",
+            "Mountain",
+            "Ocean"
+        ],
+        "answer": "Ocean",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_13.mp4",
+        "duration": 678.6181831810065,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Countryside",
+            "Desert",
+            "Ocean",
+            "Urban",
+            "Forest",
+            "Campus"
+        ],
+        "answer": "Urban",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_AWB-6.mp4",
+        "duration": 450.0,
+        "question": "In what environment does the scene in the video take place?",
+        "candidates": [
+            "Ocean",
+            "City",
+            "Rainforest",
+            "Wasteland",
+            "Snow Mountain",
+            "Desert"
+        ],
+        "answer": "Wasteland",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_AWC-4.mp4",
+        "duration": 450.0,
+        "question": "What is the main animal discussed in the video?",
+        "candidates": [
+            "Tiger",
+            "Dinosaur",
+            "Cat",
+            "Lion",
+            "Rabbit",
+            "Dog"
+        ],
+        "answer": "Dinosaur",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_TFS-5.mp4",
+        "duration": 450.0,
+        "question": "Which of the following animals did not appear in the video?",
+        "candidates": [
+            "Elephant",
+            "Lion",
+            "Rhino",
+            "Bird",
+            "Dragonfly",
+            "Crocodile"
+        ],
+        "answer": "Lion",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_15.mp4",
+        "duration": 423.52,
+        "question": "In what environment does the scene in the video take place?",
+        "candidates": [
+            "Grassland",
+            "City",
+            "Forest",
+            "Ocean",
+            "Snow Mountain",
+            "Desert"
+        ],
+        "answer": "City",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_18.mp4",
+        "duration": 651.8112954069612,
+        "question": "What type of film is this?",
+        "candidates": [
+            "War",
+            "Documentary",
+            "Action",
+            "Comedy",
+            "Science Fiction",
+            "Horror"
+        ],
+        "answer": "Comedy",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_22.mp4",
+        "duration": 407.116439508766,
+        "question": "What genre is this film?",
+        "candidates": [
+            "Science Fiction",
+            "Comedy",
+            "Documentary",
+            "Action",
+            "Horror",
+            "War"
+        ],
+        "answer": "Comedy",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_17.mp4",
+        "duration": 400.58,
+        "question": "In what setting does the video take place?",
+        "candidates": [
+            "Countryside",
+            "Campus",
+            "Castle",
+            "Desert",
+            "City",
+            "Forest"
+        ],
+        "answer": "Castle",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_18.mp4",
+        "duration": 355.39,
+        "question": "What type of film is this?",
+        "candidates": [
+            "Animated film",
+            "Documentary",
+            "Horror film",
+            "Romance film",
+            "War film",
+            "Action film"
+        ],
+        "answer": "Animated film",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_movie101_91.mp4",
+        "duration": 244,
+        "question": "What weather condition is depicted in the video scene?",
+        "candidates": [
+            "Cloudy day",
+            "Foggy day",
+            "Sunny day",
+            "Dust storm day",
+            "Rainy day",
+            "Snowy day"
+        ],
+        "answer": "Rainy day",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_food_3.mp4",
+        "duration": 411.41,
+        "question": "What type of video is this?",
+        "candidates": [
+            "Bodybuilding & Fitness",
+            "Classroom Teaching",
+            "Travel Explanation",
+            "Food Cooking",
+            "Daily Office Work",
+            "Sports"
+        ],
+        "answer": "Food Cooking",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_BWB-5.mp4",
+        "duration": 450.12,
+        "question": "How many types of animals appeared in the video?",
+        "candidates": [
+            "3",
+            "2",
+            "5",
+            "6",
+            "4",
+            "1"
+        ],
+        "answer": "6",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_18.mp4",
+        "duration": 355.39,
+        "question": "Who are the main characters in the entire video?",
+        "candidates": [
+            "Dog and Mouse",
+            "Tom and Jerry",
+            "Cat and Duck",
+            "Mouse and Duck",
+            "Dog and Duck",
+            "Cat and Dog"
+        ],
+        "answer": "Tom and Jerry",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_cartoon_3.mp4",
+        "duration": 572.577543878504,
+        "question": "What genre of movie is depicted in the video clip?",
+        "candidates": [
+            "Documentary",
+            "Comedy",
+            "Romance",
+            "Horror",
+            "War",
+            "Animation"
+        ],
+        "answer": "Animation",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_entv_18.mp4",
+        "duration": 651.8112954069612,
+        "question": "What is the setting of the video?",
+        "candidates": [
+            "Countryside",
+            "Desert",
+            "Ocean",
+            "Urban",
+            "Campus",
+            "Forest"
+        ],
+        "answer": "Urban",
+        "question_type": "topic_reasoning"
+    },
+    {
+        "video": "MLVU_test/test_TFS-5.mp4",
+        "duration": 450.0,
+        "question": "How many different types of animals appeared in the video?",
+        "candidates": [
+            "5",
+            "4",
+            "2",
+            "1",
+            "3",
+            "6"
+        ],
+        "answer": "5",
+        "question_type": "topic_reasoning"
+    }
+]

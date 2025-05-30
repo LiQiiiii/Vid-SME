@@ -1,0 +1,647 @@
+[
+    {
+        "video": "MLVU_test/test_tutorial_20.mp4",
+        "duration": 811.57,
+        "question": "Which action is performed after punching a hole in the bottle cap",
+        "candidates": [
+            "Sealing",
+            "Mixing the contents",
+            "Adding a straw",
+            "Pouring out the liquid",
+            "Inserting a pen through the hole",
+            "Injecting a beverage"
+        ],
+        "answer": "Inserting a pen through the hole",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_30.mp4",
+        "duration": 704.07,
+        "question": "What operation is performed after opening the music app in the video?",
+        "candidates": [
+            "Playing a song",
+            "Adjusting the volume",
+            "Browsing the music library",
+            "Searching for music",
+            "Selecting a playback mode",
+            "Frequent screen switching"
+        ],
+        "answer": "Frequent screen switching",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_6.mp4",
+        "duration": 1105.96,
+        "question": "The sequence of actions the man takes while cooking",
+        "candidates": [
+            "Cutting food, adding condiments, stir-frying food, plating the food, sprinkling cilantro and lemon juice",
+            "Cutting food, sprinkling cilantro and lemon juice, stir-frying food, adding condiments, plating the food",
+            "Cutting food, adding condiments, sprinkling cilantro and lemon juice, stir-frying food, plating the food",
+            "Cutting food, stir-frying food, adding condiments, plating the food, sprinkling cilantro and lemon juice",
+            "Cutting food, stir-frying food, adding condiments, sprinkling cilantro and lemon juice, plating the food",
+            "Cutting food, stir-frying food, sprinkling cilantro and lemon juice, adding condiments, plating the food"
+        ],
+        "answer": "Cutting food, stir-frying food, adding condiments, plating the food, sprinkling cilantro and lemon juice",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_7.mp4",
+        "duration": 438.18,
+        "question": "The sequence in which the woman grinds objects in the container",
+        "candidates": [
+            "Grey granular object, green object, yellow round object",
+            "Yellow round object, green object, grey granular object",
+            "Green object, grey granular object, yellow round object",
+            "Green object, yellow round object, grey granular object",
+            "Grey granular object, yellow round object, green object",
+            "Yellow round object, grey granular object, green object"
+        ],
+        "answer": "Yellow round object, green object, grey granular object",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_2.mp4",
+        "duration": 459.52,
+        "question": "Which action is performed after the man has prepared the raw fish?",
+        "candidates": [
+            "Adjusting the heat of the stove",
+            "Preparing the sauce",
+            "Cleaning the cutting board",
+            "Opening the refrigerator to get other ingredients",
+            "Washing hands",
+            "Sharpening the knife"
+        ],
+        "answer": "Sharpening the knife",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_15.mp4",
+        "duration": 537.05,
+        "question": "The sequence of handling the colors of the paper in the video",
+        "candidates": [
+            "Black, Yellow, Yellow, Black, Green",
+            "Black, Green, Yellow, Yellow, Black",
+            "Black, Yellow, Green, Yellow, Black",
+            "Yellow, Green, Black, Yellow, Black",
+            "Black, Yellow, Yellow, Green, Black",
+            "Yellow, Black, Green, Yellow, Black"
+        ],
+        "answer": "Black, Yellow, Green, Yellow, Black",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_16.mp4",
+        "duration": 500.02,
+        "question": "In the video, which action is performed after drawing the general outline of the character",
+        "candidates": [
+            "Erasing unnecessary lines",
+            "Adding light and shadow effects",
+            "Drawing the position of the ears",
+            "Defining facial expression",
+            "Adding specific features",
+            "Adjusting facial proportions"
+        ],
+        "answer": "Erasing unnecessary lines",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_25.mp4",
+        "duration": 842.27,
+        "question": "In the video, what operation was performed after defining x and y?",
+        "candidates": [
+            "Model fitting",
+            "Parameter estimation",
+            "Data transformation",
+            "Regression analysis",
+            "Plotting",
+            "Hypothesis testing"
+        ],
+        "answer": "Plotting",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_23.mp4",
+        "duration": 1471.75,
+        "question": "What is the sequence of images processed in the video?",
+        "candidates": [
+            "A photo of a person in a white skirt, a photo of a person in a long dress with a floral pattern, a landscape photo, a cartoon photo with a panda pattern, a photo of two people in a restaurant, a photo of four people sitting on a bench, a photo of a person holding a cat",
+            "A photo of a person in a white skirt, a landscape photo, a cartoon photo with a panda pattern, a photo of a person in a long dress with a floral pattern, a photo of two people in a restaurant, a photo of four people sitting on a bench, a photo of a person holding a cat",
+            "A photo of a person in a white skirt, a landscape photo, a cartoon photo with a panda pattern, a photo of two people in a restaurant, a photo of four people sitting on a bench, a photo of a person in a long dress with a floral pattern, a photo of a person holding a cat",
+            "A photo of a person in a long dress with a floral pattern, a photo of a person in a white skirt, a landscape photo, a cartoon photo with a panda pattern, a photo of two people in a restaurant, a photo of four people sitting on a bench, a photo of a person holding a cat",
+            "A photo of a person in a white skirt, a landscape photo, a photo of a person in a long dress with a floral pattern, a cartoon photo with a panda pattern, a photo of two people in a restaurant, a photo of four people sitting on a bench, a photo of a person holding a cat",
+            "A photo of a person in a white skirt, a landscape photo, a cartoon photo with a panda pattern, a photo of two people in a restaurant, a photo of a person in a long dress with a floral pattern, a photo of four people sitting on a bench, a photo of a person holding a cat"
+        ],
+        "answer": "A photo of a person in a long dress with a floral pattern, a photo of a person in a white skirt, a landscape photo, a cartoon photo with a panda pattern, a photo of two people in a restaurant, a photo of four people sitting on a bench, a photo of a person holding a cat",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_1.mp4",
+        "duration": 1247.2,
+        "question": "What is the sequence in which the man processes the vegetables?",
+        "candidates": [
+            "Purple onion, red round chili, green vegetables, scallions, carrots, white onion",
+            "Green vegetables, red round chili, purple onion, scallions, carrots, white onion",
+            "Red round chili, purple onion, green vegetables, scallions, carrots, white onion",
+            "White onion, green vegetables, red round chili, scallions, carrots, purple onion",
+            "Scallions, red round chili, green vegetables, purple onion, carrots, white onion",
+            "Carrots, red round chili, green vegetables, scallions, purple onion, white onion"
+        ],
+        "answer": "Purple onion, red round chili, green vegetables, scallions, carrots, white onion",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_12.mp4",
+        "duration": 279.38,
+        "question": "The sequence of tools used in the video",
+        "candidates": [
+            "Glue, Scissors, Creaser, Small stick, Tweezers",
+            "Glue, Creaser, Small stick, Tweezers, Scissors",
+            "Scissors, Glue, Creaser, Small stick, Tweezers",
+            "Glue, Creaser, Scissors, Small stick, Tweezers",
+            "Tweezers, Scissors, Glue, Creaser, Small stick",
+            "Glue, Creaser, Small stick, Scissors, Tweezers"
+        ],
+        "answer": "Scissors, Glue, Creaser, Small stick, Tweezers",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_29.mp4",
+        "duration": 775.45,
+        "question": "What is the order of topics introduced in the video?",
+        "candidates": [
+            "WINDOWS, THE INTERFACE, MULTITASKING, THE FINDER, UNIQUE FEATURES",
+            "THE INTERFACE, MULTITASKING, WINDOWS, THE FINDER, UNIQUE FEATURES",
+            "THE INTERFACE, MULTITASKING, THE FINDER, UNIQUE FEATURES, WINDOWS",
+            "THE FINDER, THE INTERFACE, WINDOWS, MULTITASKING, UNIQUE FEATURES",
+            "THE INTERFACE, WINDOWS, MULTITASKING, THE FINDER, UNIQUE FEATURES",
+            "THE INTERFACE, MULTITASKING, THE FINDER, WINDOWS, UNIQUE FEATURES"
+        ],
+        "answer": "THE INTERFACE, WINDOWS, MULTITASKING, THE FINDER, UNIQUE FEATURES",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_28.mp4",
+        "duration": 3553.39,
+        "question": "What is the order of tools used in the video?",
+        "candidates": [
+            "Marker, knife, tape, screwdriver",
+            "Knife, marker, tape, screwdriver",
+            "Tape, marker, screwdriver, knife",
+            "Tape, knife, marker, screwdriver",
+            "Knife, tape, marker, screwdriver",
+            "Tape, marker, knife, screwdriver"
+        ],
+        "answer": "Knife, tape, marker, screwdriver",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_14.mp4",
+        "duration": 445.17,
+        "question": "The sequence of handling the colors of the strips in the video",
+        "candidates": [
+            "Green, White, Pink, Yellow",
+            "White, Pink, Green, Yellow",
+            "Green, Pink, Yellow, White",
+            "Green, Pink, White, Yellow",
+            "White, Pink, Yellow, Green",
+            "White, Green, Pink, Yellow"
+        ],
+        "answer": "Green, White, Pink, Yellow",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_21.mp4",
+        "duration": 1765.25,
+        "question": "Which technique is primarily used when editing the landscape photo in the video?",
+        "candidates": [
+            "Sharpening",
+            "Color correction",
+            "Compositing",
+            "Contrast enhancement",
+            "Saturation adjustment",
+            "Exposure adjustment"
+        ],
+        "answer": "Compositing",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_16.mp4",
+        "duration": 500.02,
+        "question": "The drawing sequence in the video",
+        "candidates": [
+            "Face shape, eyes, nose, ears, mouth, hair",
+            "Face shape, eyes, nose, mouth, ears, hair",
+            "Face shape, ears, eyes, nose, mouth, hair",
+            "Face shape, mouth, ears, eyes, nose, hair",
+            "Face shape, eyes, nose, mouth, hair, ears",
+            "Face shape, eyes, ears, nose, mouth, hair"
+        ],
+        "answer": "Face shape, ears, eyes, nose, mouth, hair",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_26.mp4",
+        "duration": 1281.49,
+        "question": "What is the next step after the first plot is completed in the video?",
+        "candidates": [
+            "Documenting",
+            "Optimizing the chart",
+            "Sharing and presenting",
+            "Interpreting results",
+            "Validation and testing",
+            "Model fitting"
+        ],
+        "answer": "Optimizing the chart",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_11.mp4",
+        "duration": 191.87,
+        "question": "The sequence of colors used for the strip of paper in the video",
+        "candidates": [
+            "Pink, Yellow, Green, Green, Red",
+            "Green, Yellow, Pink, Green, Red",
+            "Green, Pink, Yellow, Green, Red",
+            "Green, Pink, Green, Red, Yellow",
+            "Green, Pink, Green, Yellow, Red",
+            "Yellow, Green, Pink, Green, Red"
+        ],
+        "answer": "Yellow, Green, Pink, Green, Red",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_17.mp4",
+        "duration": 528.23,
+        "question": "Sequence of tools used in the handcraft process in the video",
+        "candidates": [
+            "Tape, glue, scissors, carving knife, spray paint",
+            "Tape, glue, carving knife, spray paint, scissors",
+            "Carving knife, scissors, tape, glue, spray paint",
+            "Tape, scissors, glue, carving knife, spray paint",
+            "Scissors, tape, glue, carving knife, spray paint",
+            "Tape, glue, carving knife, scissors, spray paint"
+        ],
+        "answer": "Scissors, tape, glue, carving knife, spray paint",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_3.mp4",
+        "duration": 1827.44,
+        "question": "What is the sequence of the man processing the food?",
+        "candidates": [
+            "Pineapple, pear, red round chili, avocado",
+            "Pineapple, avocado, pear, red round chili",
+            "Pineapple, red round chili, pear, avocado",
+            "Pear, red round chili, pineapple, avocado",
+            "Avocado, red round chili, pear, pineapple",
+            "Red round chili, pineapple, pear, avocado"
+        ],
+        "answer": "Pineapple, red round chili, pear, avocado",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_21.mp4",
+        "duration": 1765.25,
+        "question": "What is the sequence of types of images edited in the video?",
+        "candidates": [
+            "Landscape photo, a photo of a person in denim jeans, a photo of a person in a white long dress, a photo of a person in a white crop top, a photo of a person with bright red lips, a photo of a person in a red long dress, a photo of a person in a purple long dress, a dimly lit profile photo",
+            "A photo of a person in a red long dress, a landscape photo, a photo of a person in denim jeans, a photo of a person in a white long dress, a photo of a person in a white crop top, a photo of a person with bright red lips, a photo of a person in a purple long dress, a dimly lit profile photo",
+            "Landscape photo, a photo of a person in a red long dress, a photo of a person in denim jeans, a photo of a person in a white long dress, a photo of a person in a white crop top, a photo of a person with bright red lips, a photo of a person in a purple long dress, a dimly lit profile photo",
+            "Landscape photo, a photo of a person in denim jeans, a photo of a person in a white long dress, a photo of a person in a white crop top, a photo of a person in a red long dress, a photo of a person with bright red lips, a photo of a person in a purple long dress, a dimly lit profile photo",
+            "Landscape photo, a photo of a person in denim jeans, a photo of a person in a white long dress, a photo of a person in a red long dress, a photo of a person in a white crop top, a photo of a person with bright red lips, a photo of a person in a purple long dress, a dimly lit profile photo",
+            "Landscape photo, a photo of a person in denim jeans, a photo of a person in a red long dress, a photo of a person in a white long dress, a photo of a person in a white crop top, a photo of a person with bright red lips, a photo of a person in a purple long dress, a dimly lit profile photo"
+        ],
+        "answer": "A photo of a person in a red long dress, a landscape photo, a photo of a person in denim jeans, a photo of a person in a white long dress, a photo of a person in a white crop top, a photo of a person with bright red lips, a photo of a person in a purple long dress, a dimly lit profile photo",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_19.mp4",
+        "duration": 386.24,
+        "question": "Which action is performed after marking the paper with a pencil",
+        "candidates": [
+            "Cutting",
+            "Scanning",
+            "Storing",
+            "Writing",
+            "Erasing",
+            "Filing"
+        ],
+        "answer": "Cutting",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_27.mp4",
+        "duration": 833.02,
+        "question": "In the video, what technique does the man use when photographing the teddy bear?",
+        "candidates": [
+            "Exposure compensation",
+            "Changing focal length",
+            "Changing shutter speed",
+            "Lens selection",
+            "Adjusting aperture",
+            "Adjusting ISO sensitivity"
+        ],
+        "answer": "Adjusting ISO sensitivity",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_22.mp4",
+        "duration": 1182.94,
+        "question": "What is the sequence of images processed in the video?",
+        "candidates": [
+            "A photo of a person in a leather jacket, a photo of a person with a beard, a photo of a person in a denim jacket, a photo of a person in a white sleeveless top, a photo of a person wearing a necklace, a photo of a person with slightly purple lips, a photo of a person in red trousers",
+            "A photo of a person in a leather jacket, a photo of a person with a beard, a photo of a person wearing a necklace, a photo of a person in a denim jacket, a photo of a person in a white sleeveless top, a photo of a person with slightly purple lips, a photo of a person in red trousers",
+            "A photo of a person in a leather jacket, a photo of a person wearing a necklace, a photo of a person with a beard, a photo of a person in a denim jacket, a photo of a person in a white sleeveless top, a photo of a person with slightly purple lips, a photo of a person in red trousers",
+            "A photo of a person wearing a necklace, a photo of a person in a leather jacket, a photo of a person with a beard, a photo of a person in a denim jacket, a photo of a person in a white sleeveless top, a photo of a person with slightly purple lips, a photo of a person in red trousers",
+            "A photo of a person in a leather jacket, a photo of a person with a beard, a photo of a person in a denim jacket, a photo of a person wearing a necklace, a photo of a person in a white sleeveless top, a photo of a person with slightly purple lips, a photo of a person in red trousers",
+            "A photo of a person in a leather jacket, a photo of a person with a beard, a photo of a person in a denim jacket, a photo of a person in a white sleeveless top, a photo of a person with slightly purple lips, a photo of a person wearing a necklace, a photo of a person in red trousers"
+        ],
+        "answer": "A photo of a person wearing a necklace, a photo of a person in a leather jacket, a photo of a person with a beard, a photo of a person in a denim jacket, a photo of a person in a white sleeveless top, a photo of a person with slightly purple lips, a photo of a person in red trousers",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_3.mp4",
+        "duration": 1827.44,
+        "question": "Which action does the man perform after putting the ingredients into a glass jar?",
+        "candidates": [
+            "Takes the ingredients out of the glass jar",
+            "Takes a photo of the ingredients",
+            "Puts the glass jar into the microwave to heat up",
+            "Adds some seasoning to the glass jar",
+            "Puts the glass jar into the fridge for cooling",
+            "Blends the food with a blender"
+        ],
+        "answer": "Blends the food with a blender",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_28.mp4",
+        "duration": 3553.39,
+        "question": "In the video, after tearing the paper off the surface of the black panels, what operation is performed?",
+        "candidates": [
+            "Testing functionality",
+            "Securing the panels",
+            "Discarding the panels",
+            "Numbering each panel surface",
+            "Installing equipment",
+            "Cleaning the surface"
+        ],
+        "answer": "Numbering each panel surface",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_13.mp4",
+        "duration": 676.68,
+        "question": "The sequence of actions in the origami process in the video",
+        "candidates": [
+            "Joining the strips, cutting the strip, adjusting the shape of the strip, cutting other strips, fixing the strip, joining the strips",
+            "Cutting the strip, adjusting the shape of the strip, joining the strips, cutting other strips, fixing the strip, joining the strips",
+            "Adjusting the shape of the strip, cutting the strip, joining the strips, cutting other strips, joining the strips, fixing the strip",
+            "Cutting the strip, joining the strips, adjusting the shape of the strip, cutting other strips, joining the strips, fixing the strip",
+            "Cutting the strip, adjusting the shape of the strip, joining the strips, cutting other strips, joining the strips, fixing the strip",
+            "Adjusting the shape of the strip, joining the strips, cutting the strip, fixing the strip, cutting other strips, joining the strips"
+        ],
+        "answer": "Cutting the strip, adjusting the shape of the strip, joining the strips, cutting other strips, joining the strips, fixing the strip",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_30.mp4",
+        "duration": 704.07,
+        "question": "Which application is opened after 'App Store' in the video?",
+        "candidates": [
+            "Health",
+            "Camera",
+            "Mail",
+            "Calendar",
+            "TV",
+            "Photos"
+        ],
+        "answer": "Health",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_13.mp4",
+        "duration": 676.68,
+        "question": "The sequence of handling the color of the strips in the process in the video",
+        "candidates": [
+            "Pink, White, Yellow, White, Dark Green, Purple, Light Green",
+            "White, Yellow, White, Dark Green, Purple, Pink, Light Green",
+            "White, Yellow, Pink, White, Dark Green, Purple, Light Green",
+            "White, Pink, Yellow, White, Dark Green, Purple, Light Green",
+            "White, Yellow, White, Pink, Dark Green, Purple, Light Green",
+            "White, Yellow, White, Dark Green, Pink, Purple, Light Green"
+        ],
+        "answer": "Pink, White, Yellow, White, Dark Green, Purple, Light Green",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_15.mp4",
+        "duration": 537.05,
+        "question": "Which action is performed after cutting the green paper?",
+        "candidates": [
+            "Folding it into a specific shape or pattern",
+            "Gluing the yellow paper onto the green paper",
+            "Making it into a bookmark",
+            "Attaching it to a greeting card",
+            "Putting it into an envelope",
+            "Placing it into a decorative glass bottle"
+        ],
+        "answer": "Gluing the yellow paper onto the green paper",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_5.mp4",
+        "duration": 1751.34,
+        "question": "What does the man do before frying the food at the end of the video?",
+        "candidates": [
+            "Adjusts the kitchen timer",
+            "Cuts some vegetables",
+            "Cleans the frying pan",
+            "Melts butter",
+            "Sprinkles some pepper on the food",
+            "Turns on the range hood"
+        ],
+        "answer": "Melts butter",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_18.mp4",
+        "duration": 405.98,
+        "question": "Sequence of tools used in the video",
+        "candidates": [
+            "Brush, sponge, air pump, scissors, tape, glue",
+            "Brush, sponge, scissors, tape, air pump, glue",
+            "Brush, sponge, scissors, air pump, tape, glue",
+            "Brush, sponge, scissors, tape, glue, air pump",
+            "Brush, air pump, sponge, scissors, tape, glue",
+            "Air pump, brush, sponge, scissors, tape, glue"
+        ],
+        "answer": "Air pump, brush, sponge, scissors, tape, glue",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_20.mp4",
+        "duration": 811.57,
+        "question": "Sequence of tools used in the video",
+        "candidates": [
+            "Hole puncher, knife, hole puncher, sandpaper, glue, needle, screwdriver",
+            "Sandpaper, hole puncher, knife, hole puncher, glue, needle, screwdriver",
+            "Hole puncher, knife, hole puncher, glue, sandpaper, needle, screwdriver",
+            "Hole puncher, knife, sandpaper, hole puncher, glue, needle, screwdriver",
+            "Hole puncher, knife, hole puncher, glue, needle, sandpaper, screwdriver",
+            "Hole puncher, sandpaper, knife, hole puncher, glue, needle, screwdriver"
+        ],
+        "answer": "Sandpaper, hole puncher, knife, hole puncher, glue, needle, screwdriver",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_8.mp4",
+        "duration": 506.73,
+        "question": "Which action did the man take after planting the plant in the flower pot?",
+        "candidates": [
+            "Adding fertilizer",
+            "Trimming the plant",
+            "Explanation",
+            "Placing it in a sunny location",
+            "Taking a picture of the plant",
+            "Watering"
+        ],
+        "answer": "Explanation",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_24.mp4",
+        "duration": 242.58,
+        "question": "What types of charts are made in the video?",
+        "candidates": [
+            "Scatter plot, box plot, word cloud, bar chart",
+            "Line chart, box plot, word cloud, bar chart",
+            "Scatter plot, line chart, box plot, word cloud",
+            "Scatter plot, line chart, box plot",
+            "Scatter plot, line chart, box plot, word cloud, bar chart",
+            "Scatter plot, line chart, box plot, bar chart"
+        ],
+        "answer": "Scatter plot, line chart, box plot, word cloud",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_25.mp4",
+        "duration": 842.27,
+        "question": "What operations were introduced in the video?",
+        "candidates": [
+            "Indexing operations, loop statements, concurrency and parallelism",
+            "Indexing operations, if-else statements, loop statements",
+            "Indexing operations, loop statements, string operations",
+            "Indexing operations, loop statements, file operations",
+            "Indexing operations, loop statements, exception handling",
+            "Indexing operations, loop statements, network programming"
+        ],
+        "answer": "Indexing operations, if-else statements, loop statements",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_24.mp4",
+        "duration": 242.58,
+        "question": "What operation was performed after importing data in the video?",
+        "candidates": [
+            "Data transformation",
+            "Data filtering",
+            "Data aggregation",
+            "Data association",
+            "Data modeling",
+            "Data visualization"
+        ],
+        "answer": "Data visualization",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_22.mp4",
+        "duration": 1182.94,
+        "question": "What is the main technique used when processing the photo of a person wearing a necklace?",
+        "candidates": [
+            "Exposure adjustment",
+            "Color correction",
+            "Sharpening",
+            "Saturation adjustment",
+            "Erasing",
+            "Contrast enhancement"
+        ],
+        "answer": "Erasing",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_27.mp4",
+        "duration": 833.02,
+        "question": "In the video, after the man adjusts the aperture of the camera pointed at the lamp on the table, what does he photograph next?",
+        "candidates": [
+            "Flower pot and desk lamp",
+            "Building blocks and Rubik's cube",
+            "Building blocks and flower pot",
+            "Building blocks and desk lamp",
+            "Flower pot and Rubik's cube",
+            "Desk lamp and Rubik's cube"
+        ],
+        "answer": "Building blocks and Rubik's cube",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_12.mp4",
+        "duration": 279.38,
+        "question": "The sequence of actions in the origami process in the video",
+        "candidates": [
+            "Adjusting the shape of the strip, cutting the paper, applying glue, fixing the paper, applying glue, fixing the strip",
+            "Cutting the paper, applying glue, adjusting the shape of the strip, applying glue, fixing the paper, fixing the strip",
+            "Cutting the paper, applying glue, adjusting the shape of the strip, applying glue, fixing the strip, fixing the paper",
+            "Cutting the paper, applying glue, fixing the paper, adjusting the shape of the strip, applying glue, fixing the strip",
+            "Cutting the paper, adjusting the shape of the strip, applying glue, fixing the paper, applying glue, fixing the strip",
+            "Adjusting the shape of the strip, applying glue, fixing the strip, cutting the paper, applying glue, fixing the paper"
+        ],
+        "answer": "Cutting the paper, applying glue, fixing the paper, adjusting the shape of the strip, applying glue, fixing the strip",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_11.mp4",
+        "duration": 191.87,
+        "question": "The sequence of origami actions in the video",
+        "candidates": [
+            "Cutting the strip of paper, dipping in glue, bending the strip of paper, fixing the strip of paper, adjusting the position of the strip of paper",
+            "Bending the strip of paper, dipping in glue, cutting the strip of paper, fixing the strip of paper, adjusting the position of the strip of paper",
+            "Bending the strip of paper, dipping in glue, fixing the strip of paper, adjusting the position of the strip of paper, cutting the strip of paper",
+            "Cutting the strip of paper, bending the strip of paper, dipping in glue, adjusting the position of the strip of paper, fixing the strip of paper",
+            "Bending the strip of paper, cutting the strip of paper, dipping in glue, fixing the strip of paper, adjusting the position of the strip of paper",
+            "Cutting the strip of paper, bending the strip of paper, dipping in glue, fixing the strip of paper, adjusting the position of the strip of paper"
+        ],
+        "answer": "Cutting the strip of paper, bending the strip of paper, dipping in glue, fixing the strip of paper, adjusting the position of the strip of paper",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_29.mp4",
+        "duration": 775.45,
+        "question": "In the video, after demonstrating the calculator function, what function is shown next?",
+        "candidates": [
+            "Photography feature",
+            "Weather application",
+            "Email client",
+            "Translation function",
+            "Calendar application",
+            "Maps and navigation"
+        ],
+        "answer": "Translation function",
+        "question_type": "tutorialQA"
+    },
+    {
+        "video": "MLVU_test/test_tutorial_23.mp4",
+        "duration": 1471.75,
+        "question": "What is the main technique used in processing the landscape photo in the video?",
+        "candidates": [
+            "Depth of field adjustment",
+            "Filter application",
+            "Exposure adjustment",
+            "Contrast enhancement",
+            "Cropping and composition",
+            "Saturation adjustment"
+        ],
+        "answer": "Filter application",
+        "question_type": "tutorialQA"
+    }
+]

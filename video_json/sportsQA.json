@@ -1,0 +1,542 @@
+[
+    {
+        "video": "MLVU_test/test_sports_10.mp4",
+        "duration": 1271.68,
+        "question": "Why was the player in black jersey number 10 given a yellow card?",
+        "candidates": [
+            "Technical foul",
+            "Tackling foul",
+            "Handball",
+            "Offside",
+            "Pulling a player",
+            "Malicious foul"
+        ],
+        "answer": "Technical foul",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_7.mp4",
+        "duration": 750.82,
+        "question": "What interaction did the players from both teams have before entering the field?",
+        "candidates": [
+            "No interaction",
+            "Group photo",
+            "They greeted each other with high-fives",
+            "Provoking each other",
+            "Fighting",
+            "Exchanging gifts"
+        ],
+        "answer": "They greeted each other with high-fives",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_27.mp4",
+        "duration": 686.56,
+        "question": "How many times is a team member thrown into the air from the water in the video?",
+        "candidates": [
+            "4 times",
+            "1 time",
+            "6 times",
+            "3 times",
+            "2 times",
+            "5 times"
+        ],
+        "answer": "3 times",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_30.mp4",
+        "duration": 5787.76,
+        "question": "What is the event in the video?",
+        "candidates": [
+            "Women's synchronized diving",
+            "Individual diving",
+            "Swimming",
+            "Men's synchronized diving",
+            "Swimming relay race",
+            "Synchronized swimming"
+        ],
+        "answer": "Men's synchronized diving",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_2.mp4",
+        "duration": 7676.82,
+        "question": "Which player in blue jersey kicked the ball onto the side netting of the red team's goal?",
+        "candidates": [
+            "Player number 4 in blue jersey",
+            "Player number 47 in blue jersey",
+            "Player number 9 in blue jersey",
+            "Player number 17 in blue jersey",
+            "Player number 2 in blue jersey",
+            "Player number 28 in blue jersey"
+        ],
+        "answer": "Player number 47 in blue jersey",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_23.mp4",
+        "duration": 440.88,
+        "question": "How many people jump into the water first at the beginning of the video?",
+        "candidates": [
+            "7 people",
+            "3 people",
+            "8 people",
+            "2 people",
+            "5 people",
+            "4 people"
+        ],
+        "answer": "4 people",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_36.mp4",
+        "duration": 960.4,
+        "question": "Which country takes the lead after the second baton pass in the video?",
+        "candidates": [
+            "Canada",
+            "Sweden",
+            "Russia",
+            "Africa",
+            "Brazil",
+            "United States"
+        ],
+        "answer": "United States",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_9.mp4",
+        "duration": 303.11,
+        "question": "Why didn't the player in white jersey number 13 score?",
+        "candidates": [
+            "The football was blocked by the player in red team green jersey number 16",
+            "The player in white jersey number 13 fell down",
+            "The player in white jersey number 13 was offside",
+            "The player in red jersey number 15 blocked the offensive of the player in white jersey number 13",
+            "The player in white jersey number 13 committed a technical foul",
+            "The player in white jersey number 13 kicked the ball over"
+        ],
+        "answer": "The football was blocked by the player in red team green jersey number 16",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_29.mp4",
+        "duration": 1252.6,
+        "question": "Which country's team member is in the 5th lane in the video?",
+        "candidates": [
+            "Brazil",
+            "South Korea",
+            "United States",
+            "United Kingdom",
+            "Tunisia",
+            "Turkey"
+        ],
+        "answer": "Tunisia",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_21.mp4",
+        "duration": 516.28,
+        "question": "What swimming style do the competitors use to return to the finish line?",
+        "candidates": [
+            "Breaststroke",
+            "Freestyle",
+            "Medley",
+            "Underwater swimming",
+            "Backstroke",
+            "Butterfly"
+        ],
+        "answer": "Backstroke",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_36.mp4",
+        "duration": 960.4,
+        "question": "Which country gets the baton first in the video?",
+        "candidates": [
+            "Botswana",
+            "South Africa",
+            "Poland",
+            "United Kingdom",
+            "Germany",
+            "United States"
+        ],
+        "answer": "United States",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_3.mp4",
+        "duration": 389.75,
+        "question": "What action did the first player of the red team make when entering the field?",
+        "candidates": [
+            "He accelerated his steps and then jumped",
+            "He clenched his fist or clapped",
+            "He showed his jersey number",
+            "He pointed to the ground",
+            "He performed a prayer or ritual",
+            "He waved to the crowd"
+        ],
+        "answer": "He accelerated his steps and then jumped",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_39.mp4",
+        "duration": 2822.29,
+        "question": "Which player scores the first point in the video?",
+        "candidates": [
+            "The player in pink",
+            "The player in orange",
+            "The player in red",
+            "The player in white",
+            "The player in blue",
+            "The player in black"
+        ],
+        "answer": "The player in pink",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_25.mp4",
+        "duration": 511.72,
+        "question": "How many different swimming styles do the competitors use in the race?",
+        "candidates": [
+            "3 styles",
+            "4 styles",
+            "8 styles",
+            "2 styles",
+            "5 styles",
+            "1 style"
+        ],
+        "answer": "4 styles",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_31.mp4",
+        "duration": 696.0,
+        "question": "Which country's team gets the first ball at the start of the video?",
+        "candidates": [
+            "South Korea",
+            "United States",
+            "Sweden",
+            "China",
+            "Japan",
+            "Russia"
+        ],
+        "answer": "China",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_14.mp4",
+        "duration": 597.91,
+        "question": "How did player number 7 from the blue team score in the first quarter?",
+        "candidates": [
+            "360-degree dunk",
+            "Step-back three-pointer",
+            "Hook shot",
+            "Mid-range shot from the free-throw line",
+            "Step-back jump shot",
+            "Layup with a dunk under the legs"
+        ],
+        "answer": "Step-back three-pointer",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_3.mp4",
+        "duration": 389.75,
+        "question": "When the player in red shirt and green shorts took a free kick, how many players from the team in white were defending behind the white line?",
+        "candidates": [
+            "Ten players were defending",
+            "No one was defending",
+            "Seven players were defending",
+            "Three players were lying down to defend",
+            "One player was defending",
+            "The goalkeeper was defending"
+        ],
+        "answer": "Seven players were defending",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_8.mp4",
+        "duration": 668.23,
+        "question": "During the penalty kick, which direction did the green-jerseyed goalkeeper move to block the shot from the player in yellow jersey and blue shorts number 10?",
+        "candidates": [
+            "Moved to the top right corner to block the shot",
+            "Moved to the right to block the shot",
+            "Moved upwards to block the shot",
+            "Moved forward to block the shot",
+            "Moved to the top left corner to block the shot",
+            "Stayed in place"
+        ],
+        "answer": "Moved to the right to block the shot",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_17.mp4",
+        "duration": 551.57,
+        "question": "What was the state of the players from both teams in the final moments of the game?",
+        "candidates": [
+            "The white team gave up on offense, and the blue team continued to compete",
+            "The white team continued to attack, and the blue team gave up on defense",
+            "The white team gave up on defense, and the blue team gave up on offense",
+            "The white team gave up on defense, and the blue team continued to attack",
+            "The white team continued to attack, and the blue team continued to defend",
+            "The white team gave up on offense, and the blue team gave up on defense"
+        ],
+        "answer": "The white team gave up on offense, and the blue team gave up on defense",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_39.mp4",
+        "duration": 2822.29,
+        "question": "How does the player in pink score the second point in the video?",
+        "candidates": [
+            "The player in black committed a foul",
+            "The player in pink scored with a diagonal shot",
+            "The player in pink scored with a smash",
+            "The player in black hit the shuttlecock into the net",
+            "The player in black missed the shuttlecock",
+            "The player in pink scored with a flat high shot"
+        ],
+        "answer": "The player in black hit the shuttlecock into the net",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_1.mp4",
+        "duration": 645.0,
+        "question": "How did the player number 24 in white and blue jersey fall?",
+        "candidates": [
+            "He was tripped by the soccer ball",
+            "He was tackled by a spectator",
+            "He was tackled by a person in black",
+            "He was tackled by player number 20 in red jersey",
+            "He was tackled by the goalkeeper",
+            "He fell on his own"
+        ],
+        "answer": "He was tackled by player number 20 in red jersey",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_4.mp4",
+        "duration": 978.94,
+        "question": "Which player in deep blue jersey scored an own goal?",
+        "candidates": [
+            "Player number 4 in deep blue jersey",
+            "Player number 10 in deep blue jersey",
+            "Player number 3 in deep blue jersey",
+            "Player number 16 in deep blue jersey",
+            "Player number 9 in deep blue jersey",
+            "Player number 5 in deep blue jersey"
+        ],
+        "answer": "Player number 3 in deep blue jersey",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_20.mp4",
+        "duration": 848.16,
+        "question": "How does the team in white score the first points?",
+        "candidates": [
+            "A player scores by dunking after a breakthrough",
+            "A player scores from a mid-range jump shot",
+            "A player scores from a free throw",
+            "A player scores by making a layup after a breakthrough",
+            "A player scores with a stop-and-jump shot",
+            "A player scores from a three-point long shot"
+        ],
+        "answer": "A player scores by making a layup after a breakthrough",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_18.mp4",
+        "duration": 5469.8,
+        "question": "What is the player from the red team who is preparing for the jump ball doing?",
+        "candidates": [
+            "Communicating with teammates",
+            "Checking equipment",
+            "Positioning himself",
+            "Communicating with the referee",
+            "Stretching",
+            "Observing the opponent"
+        ],
+        "answer": "Stretching",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_35.mp4",
+        "duration": 1273.66,
+        "question": "Why was the first race terminated and a rerun scheduled?",
+        "candidates": [
+            "A team member was injured",
+            "A British team member started early",
+            "A Jamaican team member started early",
+            "An off-field person entered the field",
+            "An American team member started early",
+            "There was a disturbance on the scene"
+        ],
+        "answer": "A British team member started early",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_1.mp4",
+        "duration": 645.0,
+        "question": "When the player in white and blue jersey took the free kick, which direction did the goalkeeper number 12 from the red team dive?",
+        "candidates": [
+            "He stayed in place",
+            "He dived forward",
+            "He dived to the top right",
+            "He dived to the right",
+            "He dived to the top left",
+            "He dived upwards"
+        ],
+        "answer": "He dived to the top left",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_1.mp4",
+        "duration": 645.0,
+        "question": "What happened when player number 11 in the white and blue jersey advanced with the ball?",
+        "candidates": [
+            "He was caught in an offside trap",
+            "He passed the ball",
+            "He was sandwiched in defense",
+            "He fell due to the slippery field",
+            "He kicked the ball out of bounds",
+            "He shot at the goal"
+        ],
+        "answer": "He was sandwiched in defense",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_12.mp4",
+        "duration": 633.74,
+        "question": "How did the player number 23 from the yellow team score at 10 minutes and 33 seconds in the second quarter?",
+        "candidates": [
+            "Hook shot",
+            "One-handed shot over the shoulder",
+            "Put-back",
+            "Layup with a swing",
+            "Faked left and right, then performed a fadeaway jump shot",
+            "Windmill dunk"
+        ],
+        "answer": "Faked left and right, then performed a fadeaway jump shot",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_20.mp4",
+        "duration": 848.16,
+        "question": "What tactic does the trailing dark-colored team employ in the final moments of the game?",
+        "candidates": [
+            "Long pass fast break",
+            "Time-out strategy",
+            "Full-court press",
+            "Three-point shot tactic",
+            "Giving up the game",
+            "Foul tactic"
+        ],
+        "answer": "Foul tactic",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_30.mp4",
+        "duration": 5787.76,
+        "question": "Which country's team performs the first synchronized diving in the video?",
+        "candidates": [
+            "Belgium",
+            "United States",
+            "Sweden",
+            "China",
+            "Canada",
+            "South Korea"
+        ],
+        "answer": "Canada",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_5.mp4",
+        "duration": 539.53,
+        "question": "How did the team in white jerseys score their goal?",
+        "candidates": [
+            "Penalty kick",
+            "Corner kick",
+            "Header",
+            "Indirect free kick",
+            "Drop ball",
+            "Direct free kick"
+        ],
+        "answer": "Penalty kick",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_6.mp4",
+        "duration": 477.8,
+        "question": "What was the audience's reaction after the player in blue jersey scored the first goal?",
+        "candidates": [
+            "Silence",
+            "Sighing",
+            "Cheering and drumming",
+            "Making praying gestures",
+            "Taking photos to share",
+            "High-fiving each other"
+        ],
+        "answer": "Cheering and drumming",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_8.mp4",
+        "duration": 668.23,
+        "question": "What were the player in yellow jersey number 10 and number 7 doing after the penalty kick goal?",
+        "candidates": [
+            "Raising hands in cheer",
+            "High knee warm-up",
+            "Dancing",
+            "Crying in despair",
+            "Hugging",
+            "Walking together"
+        ],
+        "answer": "Dancing",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_10.mp4",
+        "duration": 1271.68,
+        "question": "How did the white team score their first goal?",
+        "candidates": [
+            "Penalty kick",
+            "Header",
+            "Free kick",
+            "Long shot",
+            "Corner kick",
+            "Individual breakthrough"
+        ],
+        "answer": "Penalty kick",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_14.mp4",
+        "duration": 597.91,
+        "question": "What happened to player number 5 from the white team in the final stages of the game?",
+        "candidates": [
+            "He missed a free throw",
+            "He was knocked off by a defensive player",
+            "He committed a traveling violation",
+            "He made a shot",
+            "He was fouled by a hand-check",
+            "He made a mistake and dribbled the ball out of bounds"
+        ],
+        "answer": "He was knocked off by a defensive player",
+        "question_type": "sportsQA"
+    },
+    {
+        "video": "MLVU_test/test_sports_7.mp4",
+        "duration": 750.82,
+        "question": "Where did the player in the red jersey number 7 hit the player in the blue and white stripe jersey number 5?",
+        "candidates": [
+            "Arm",
+            "Back",
+            "Head",
+            "Thigh",
+            "Face",
+            "Chest"
+        ],
+        "answer": "Chest",
+        "question_type": "sportsQA"
+    }
+]
