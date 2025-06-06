@@ -19,48 +19,17 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 </div>
 
 ------------------
-TL;DR (1) - Achieve performance consistency between merging and ensembling in a unified framework.
+TL;DR (1) - Introduce Vid-SME, the first dedicated method for video membership inference attacks against large video understanding models.
 
-TL;DR (2) - Provide theoretical support for the realization of the performance consistency.
-
-
-## Graphical Abstract
-<table>
-    <tr>
-        <td align="center">
-            <img src="src/figures/neulig_overview.png" width="70%">
-            <p><strong>Figure 1.</strong> An illustration of Portland, which consists of a linear layer followed by a softmax function.</p>
-        </td>
-        <td align="center">
-            <img src="src/figures/neulig_train_pip.png" width="80%">
-            <p><strong>Figure 2.</strong> The training process of Portland. </p>
-        </td>
-    </tr>
-</table>
-
-<table>
-
-<div align="center">
-    <div style="max-width: 30%; text-align: left; margin-bottom: 20px;">
-        <img src="src/figures/exp.png" alt="Diagram 1" style="display: block; margin: 0 auto; width: 60%;">
-    </div>
-  </div>
-<strong>Figure 3.</strong> A toy experiment to verify theoretical feasibility. In this experiment, we merged two models that were fine-tuned on different datasets. <strong>Marker shapes</strong> represent different methods, while <strong>colors</strong> indicate different experimental groups, with each group using a distinct combination of datasets. In total, 10 groups are conducted (represented by 10 different colors). <strong>Hollow markers</strong> for each method indicate the average results across these 10 groups.
+TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a distinct dataset, using different representative training strategies.
 
 <div align="center">
     <div style="max-width: 60%; text-align: left; margin-bottom: 20px;">
-        <img src="src/figures/comparison.png" alt="Diagram 2" style="display: block; margin: 0 auto; width: 60%;">
+        <img src="assets/main_pipeline.pdf" alt="Diagram 2" style="display: block; margin: 0 auto; width: 60%;">
     </div>
 </div>
 <strong>Table 1.</strong> The asterisk indicates that the condition is <strong>partially satisfied</strong>. For Simple-Averaging, the theoretical discussion is limited to the relationship between the performance of merging two models and that of ensembling. Furthermore, although both Simple-Averaging and Task-Arithmetic can be applied to CNN-based models, their performance is suboptimal. In the case of Diverse-Origin Models, all previous methods yield performance close to random guessing, but our conclusions remain applicable.
             
-<div align="center">
-    <div style="max-width: 100%; text-align: left; margin-bottom: 20px;">
-        <img src="src/figures/main_table.png" alt="Diagram 3" style="display: block; margin: 0 auto; width: 100%;">
-    </div>
-</div>
-<strong>Table 2.</strong> Results of various methods across multiple datasets, including the merging performance, the ensembling performance, and the performance gap for both CLIP-RN50 and CLIP-ViT-B/32.
-
 ## Installation & Preparation
 
 1. Clone the repo and prepare the virtual environment.
