@@ -25,7 +25,7 @@ TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a dis
 
 <div align="center">
     <div style="max-width: 60%; text-align: left; margin-bottom: 20px;">
-        <img src="assets/main_pipeline.pdf" alt="Diagram 2" style="display: block; margin: 0 auto; width: 60%;">
+        <img src="assets/main_pipeline.jpg" alt="Diagram 2" style="display: block; margin: 0 auto; width: 60%;">
     </div>
 </div>
 <strong>Table 1.</strong> The asterisk indicates that the condition is <strong>partially satisfied</strong>. For Simple-Averaging, the theoretical discussion is limited to the relationship between the performance of merging two models and that of ensembling. Furthermore, although both Simple-Averaging and Task-Arithmetic can be applied to CNN-based models, their performance is suboptimal. In the case of Diverse-Origin Models, all previous methods yield performance close to random guessing, but our conclusions remain applicable.
