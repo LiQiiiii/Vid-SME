@@ -34,7 +34,7 @@ TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a dis
             
 ## Installation & Preparation
 
-1. Please follow the instructions provided in LongVA(https://github.com/EvolvingLMMs-Lab/LongVA) to build the virtual environment.
+1. Please follow the instructions provided in [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA) to build the virtual environment.
 
 2. Prepare the dataset and models. The download link of the datasets used in the paper can be found in `./data/data_links.txt`. Save them in the `./data` folder. Run:
 
