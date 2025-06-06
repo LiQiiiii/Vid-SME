@@ -44,9 +44,9 @@ TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a dis
             
 ## Installation & Preparation
 
-1. Please follow the instructions provided in [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA) to build the environment.
+1. Follow the instructions provided in [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA) to build the environment.
 
-2. Prepare the dataset and models. Download the [models](https://huggingface.co/LIQIIIII/Vid-SME) and move them into `./checkpoints`. For the [datasets](https://huggingface.co/datasets/LIQIIIII/Vid-SME), the json files are given in the `./video_json` folder, download the related videos and move them into `./video_json/videos`.
+2. Download the [models](https://huggingface.co/LIQIIIII/Vid-SME) and move them into `./checkpoints`. For the [datasets](https://huggingface.co/datasets/LIQIIIII/Vid-SME), the json files are given in the `./video_json` folder, download the related videos and move them into `./video_json/videos`.
 
 
 ## Evaluation
