@@ -41,24 +41,25 @@ TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a dis
 
 ## Evaluation
 
+Run Vid-SME on each model via the corresponding script:
+
 ```
-python ./src/neulig_main.py --num_co_models 2 --global_epoch 1000 --alignment_type sup --model RN50
+python Vid_SME_main_CinePile.py
 ```
 
-where `--num_co_models` is the number of collaborating models, `--alignment_type` controls the alignment term (i.e., sup/semi), and `--model` controls the model type (i.e., RN50/ViT-B-32/ViT-L-14).
 
 ## Citation
 
 If you finding our work interesting or helpful to you, please cite as follows:
 
 ```
-@misc{li2025multilevelcollaborationmodelmerging,
-      title={Multi-Level Collaboration in Model Merging}, 
+@misc{li2025vidsmemembershipinferenceattacks,
+      title={Vid-SME: Membership Inference Attacks against Large Video Understanding Models}, 
       author={Qi Li and Runpeng Yu and Xinchao Wang},
       year={2025},
-      eprint={2503.01268},
+      eprint={2506.03179},
       archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2503.01268}, 
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.03179}, 
 }
 ```
