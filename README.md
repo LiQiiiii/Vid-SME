@@ -1,10 +1,10 @@
 <div align="center">
-<h1><a href="https://arxiv.org/abs/2503.01268" target="_blank">Multi-Level Collaboration in Model Merging</a></h1>
+<h1><a href="https://arxiv.org/abs/2506.03179v1" target="_blank">Vid-SME: Membership Inference Attacks against Large Video Understanding Models</a></h1>
 
 
 <div>
-<a target="_blank" href="https://arxiv.org/abs/2503.01268">
-  <img src="https://img.shields.io/badge/arXiv-2503.01268-b31b1b.svg" alt="arXiv Paper"/>
+<a target="_blank" href="https://arxiv.org/abs/2506.03179v1">
+  <img src="https://img.shields.io/badge/arXiv-2506.03179v1-b31b1b.svg" alt="arXiv Paper"/>
 </a>
 </div>
 
