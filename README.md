@@ -11,7 +11,8 @@
 </a>
 <a href="https://huggingface.co/datasets/LIQIIIII/Vid-SME-Eval" target="_blank">
   <img
-    alt="dataset (coming soon)"
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Coming%20Soon-ffbd45.svg"
+    alt="🤗 Dataset — Coming Soon"
   />
 </a>
 
