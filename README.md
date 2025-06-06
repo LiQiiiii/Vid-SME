@@ -30,7 +30,7 @@ TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a dis
         <img src="assets/main_pipeline.jpg" alt="Diagram 2" style="display: block; margin: 0 auto; width: 100%;">
     </div>
 </div>
-<strong>Figure 1.</strong> Vid-SME against Video Understanding Large Language Models (VULLMs). *Left*: An example of the video instruction context used in our experiments. *Middle*: The overall pipeline of Vid-SME. *Right*: The detailed illustration of the membership score calculaiton of Vid-SME.
+<strong>Figure 1.</strong> Vid-SME against Video Understanding Large Language Models (VULLMs). <strong>Left:</strong>! An example of the video instruction context used in our experiments. <strong>Middle:</strong>! The overall pipeline of Vid-SME. <strong>Right:</strong>! The detailed illustration of the membership score calculaiton of Vid-SME.
             
 ## Installation & Preparation
 
