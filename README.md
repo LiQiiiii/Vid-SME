@@ -34,25 +34,7 @@ TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a dis
             
 ## Installation & Preparation
 
-1. Clone the repo and prepare the virtual environment.
-
-```
-git clone https://github.com/LiQiiiii/Neural-Ligand.git
-```
-
-```
-cd Neural-Ligand
-```
-
-```
-conda create -n neulig python=3.8.10
-```
-
-```
-conda activate neulig
-```
-
-The codes are tested on torch 2.0.0 and torchvision 0.15.1.
+1. Please follow the instructions provided in LongVA(https://github.com/EvolvingLMMs-Lab/LongVA) to build the virtual environment.
 
 2. Prepare the dataset and models. The download link of the datasets used in the paper can be found in `./data/data_links.txt`. Save them in the `./data` folder. Run:
 
