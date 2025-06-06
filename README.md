@@ -9,8 +9,11 @@
 <a href="https://huggingface.co/LIQIIIII/Vid-SME" target="_blank">
   <img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"/>
 </a>
-<a href="https://huggingface.co/LIQIIIII/Vid-SME" target="_blank">
-  <img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"/>
+<a href="https://huggingface.co/datasets/LIQIIIII/Vid-SME-Eval" target="_blank">
+  <img
+    alt="HuggingFace dataset (coming soon)"
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace--Dataset%20coming%20soon-ffbd45?logo=huggingface&logoColor=white"
+  />
 </a>
 </div>
 
