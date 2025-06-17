@@ -9,12 +9,7 @@
 <a href="https://huggingface.co/LIQIIIII/Vid-SME" target="_blank">
   <img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"/>
 </a>
-<a href="https://huggingface.co/datasets/LIQIIIII/Vid-SME-Eval" target="_blank">
-  <img
-    src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Coming%20Soon-ffbd45.svg"
-    alt="🤗 Dataset — Coming Soon"
-  />
-</a>
+
 
 </div>
 
@@ -46,7 +41,7 @@ TL;DR (2) - Benchmarking MIA performance by training three VULLMs, each on a dis
 
 1. Follow the instructions provided in [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA) to build the environment.
 
-2. Download the [models](https://huggingface.co/LIQIIIII/Vid-SME) and move them into `./checkpoints`. For the [datasets](https://huggingface.co/datasets/LIQIIIII/Vid-SME), the json files are given in the `./video_json` folder, download the related videos and move them into `./video_json/videos`.
+2. Download the [models](https://huggingface.co/LIQIIIII/Vid-SME) and move them into `./checkpoints`. For the datasets, the json files are given in the `./video_json` folder, download the related videos and move them into `./video_json/videos`.
 
 
 ## Evaluation
