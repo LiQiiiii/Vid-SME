@@ -61,7 +61,7 @@ If you finding our work interesting or helpful to you, please cite as follows:
 @article{li2025vid,
   title={Vid-sme: Membership inference attacks against large video understanding models},
   author={Li, Qi and Yu, Runpeng and Wang, Xinchao},
-  journal={Advances in neural information processing systems},
+  journal={arXiv preprint arXiv:2506.03179},
   year={2025}
 }
 ```
