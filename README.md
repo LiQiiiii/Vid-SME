@@ -58,10 +58,12 @@ python Vid_SME_main_CinePile.py
 If you finding our work interesting or helpful to you, please cite as follows:
 
 ```
-@article{li2025vid,
+@article{li2026vid,
   title={Vid-sme: Membership inference attacks against large video understanding models},
   author={Li, Qi and Yu, Runpeng and Wang, Xinchao},
-  journal={arXiv preprint arXiv:2506.03179},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={111572--111596},
+  year={2026}
 }
 ```
